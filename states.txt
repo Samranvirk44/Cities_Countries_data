@@ -1,0 +1,4115 @@
+"id","name","country_id","state_id"
+"1","Andaman and Nicobar Islands","101",null
+"2","Andhra Pradesh","101",null
+"3","Arunachal Pradesh","101",null
+"4","Assam","101",null
+"5","Bihar","101",null
+"6","Chandigarh","101",null
+"7","Chhattisgarh","101",null
+"8","Dadra and Nagar Haveli","101",null
+"9","Daman and Diu","101",null
+"10","Delhi","101",null
+"11","Goa","101",null
+"12","Gujarat","101",null
+"13","Haryana","101",null
+"14","Himachal Pradesh","101",null
+"15","Jammu and Kashmir","101",null
+"16","Jharkhand","101",null
+"17","Karnataka","101",null
+"18","Kenmore","101",null
+"19","Kerala","101",null
+"20","Lakshadweep","101",null
+"21","Madhya Pradesh","101",null
+"22","Maharashtra","101",null
+"23","Manipur","101",null
+"24","Meghalaya","101",null
+"25","Mizoram","101",null
+"26","Nagaland","101",null
+"27","Narora","101",null
+"28","Natwar","101",null
+"29","Odisha","101",null
+"30","Paschim Medinipur","101",null
+"31","Pondicherry","101",null
+"32","Punjab (india)","101",null
+"33","Rajasthan","101",null
+"34","Sikkim","101",null
+"35","Tamil Nadu","101",null
+"36","Telangana","101",null
+"37","Tripura","101",null
+"38","Uttar Pradesh","101",null
+"39","Uttarakhand","101",null
+"40","Vaishali","101",null
+"41","West Bengal","101",null
+"42","Badakhshan","1",null
+"43","Badgis","1",null
+"44","Baglan","1",null
+"45","Balkh","1",null
+"46","Bamiyan","1",null
+"47","Farah","1",null
+"48","Faryab","1",null
+"49","Gawr","1",null
+"50","Gazni","1",null
+"51","Herat","1",null
+"52","Hilmand","1",null
+"53","Jawzjan","1",null
+"54","Kabul","1",null
+"55","Kapisa","1",null
+"56","Khawst","1",null
+"57","Kunar","1",null
+"58","Lagman","1",null
+"59","Lawghar","1",null
+"60","Nangarhar","1",null
+"61","Nimruz","1",null
+"62","Nuristan","1",null
+"63","Paktika","1",null
+"64","Paktiya","1",null
+"65","Parwan","1",null
+"66","Qandahar","1",null
+"67","Qunduz","1",null
+"68","Samangan","1",null
+"69","Sar-e Pul","1",null
+"70","Takhar","1",null
+"71","Uruzgan","1",null
+"72","Wardag","1",null
+"73","Zabul","1",null
+"74","Berat","2",null
+"75","Bulqize","2",null
+"76","Delvine","2",null
+"77","Devoll","2",null
+"78","Dibre","2",null
+"79","Durres","2",null
+"80","Elbasan","2",null
+"81","Fier","2",null
+"82","Gjirokaster","2",null
+"83","Gramsh","2",null
+"84","Has","2",null
+"85","Kavaje","2",null
+"86","Kolonje","2",null
+"87","Korce","2",null
+"88","Kruje","2",null
+"89","Kucove","2",null
+"90","Kukes","2",null
+"91","Kurbin","2",null
+"92","Lezhe","2",null
+"93","Librazhd","2",null
+"94","Lushnje","2",null
+"95","Mallakaster","2",null
+"96","Malsi e Madhe","2",null
+"97","Mat","2",null
+"98","Mirdite","2",null
+"99","Peqin","2",null
+"100","Permet","2",null
+"101","Pogradec","2",null
+"102","Puke","2",null
+"103","Sarande","2",null
+"104","Shkoder","2",null
+"105","Skrapar","2",null
+"106","Tepelene","2",null
+"107","Tirane","2",null
+"108","Tropoje","2",null
+"109","Vlore","2",null
+"110","Ayn Daflah","3",null
+"111","Ayn Tamushanat","3",null
+"112","Adrar","3",null
+"113","Algiers","3",null
+"114","Annabah","3",null
+"115","Bashshar","3",null
+"116","Batnah","3",null
+"117","Bijayah","3",null
+"118","Biskrah","3",null
+"119","Blidah","3",null
+"120","Buirah","3",null
+"121","Bumardas","3",null
+"122","Burj Bu Arririj","3",null
+"123","Ghalizan","3",null
+"124","Ghardayah","3",null
+"125","Ilizi","3",null
+"126","Jijili","3",null
+"127","Jilfah","3",null
+"128","Khanshalah","3",null
+"129","Masilah","3",null
+"130","Midyah","3",null
+"131","Milah","3",null
+"132","Muaskar","3",null
+"133","Mustaghanam","3",null
+"134","Naama","3",null
+"135","Oran","3",null
+"136","Ouargla","3",null
+"137","Qalmah","3",null
+"138","Qustantinah","3",null
+"139","Sakikdah","3",null
+"140","Satif","3",null
+"141","Sayda","3",null
+"142","Sidi ban-al-Abbas","3",null
+"143","Suq Ahras","3",null
+"144","Tamanghasat","3",null
+"145","Tibazah","3",null
+"146","Tibissah","3",null
+"147","Tilimsan","3",null
+"148","Tinduf","3",null
+"149","Tisamsilt","3",null
+"150","Tiyarat","3",null
+"151","Tizi Wazu","3",null
+"152","Umm-al-Bawaghi","3",null
+"153","Wahran","3",null
+"154","Warqla","3",null
+"155","Wilaya d Alger","3",null
+"156","Wilaya de Bejaia","3",null
+"157","Wilaya de Constantine","3",null
+"158","al-Aghwat","3",null
+"159","al-Bayadh","3",null
+"160","al-Jaza ir","3",null
+"161","al-Wad","3",null
+"162","ash-Shalif","3",null
+"163","at-Tarif","3",null
+"164","Eastern","4",null
+"165","Manu a","4",null
+"166","Swains Island","4",null
+"167","Western","4",null
+"168","Andorra la Vella","5",null
+"169","Canillo","5",null
+"170","Encamp","5",null
+"171","La Massana","5",null
+"172","Les Escaldes","5",null
+"173","Ordino","5",null
+"174","Sant Julia de Loria","5",null
+"175","Bengo","6",null
+"176","Benguela","6",null
+"177","Bie","6",null
+"178","Cabinda","6",null
+"179","Cunene","6",null
+"180","Huambo","6",null
+"181","Huila","6",null
+"182","Kuando-Kubango","6",null
+"183","Kwanza Norte","6",null
+"184","Kwanza Sul","6",null
+"185","Luanda","6",null
+"186","Lunda Norte","6",null
+"187","Lunda Sul","6",null
+"188","Malanje","6",null
+"189","Moxico","6",null
+"190","Namibe","6",null
+"191","Uige","6",null
+"192","Zaire","6",null
+"193","Other Provinces","7",null
+"194","Sector claimed by Argentina/Ch","8",null
+"195","Sector claimed by Argentina/UK","8",null
+"196","Sector claimed by Australia","8",null
+"197","Sector claimed by France","8",null
+"198","Sector claimed by New Zealand","8",null
+"199","Sector claimed by Norway","8",null
+"200","Unclaimed Sector","8",null
+"201","Barbuda","9",null
+"202","Saint George","9",null
+"203","Saint John","9",null
+"204","Saint Mary","9",null
+"205","Saint Paul","9",null
+"206","Saint Peter","9",null
+"207","Saint Philip","9",null
+"208","Buenos Aires","10",null
+"209","Catamarca","10",null
+"210","Chaco","10",null
+"211","Chubut","10",null
+"212","Cordoba","10",null
+"213","Corrientes","10",null
+"214","Distrito Federal","10",null
+"215","Entre Rios","10",null
+"216","Formosa","10",null
+"217","Jujuy","10",null
+"218","La Pampa","10",null
+"219","La Rioja","10",null
+"220","Mendoza","10",null
+"221","Misiones","10",null
+"222","Neuquen","10",null
+"223","Rio Negro","10",null
+"224","Salta","10",null
+"225","San Juan","10",null
+"226","San Luis","10",null
+"227","Santa Cruz","10",null
+"228","Santa Fe","10",null
+"229","Santiago del Estero","10",null
+"230","Tierra del Fuego","10",null
+"231","Tucuman","10",null
+"232","Aragatsotn","11",null
+"233","Ararat","11",null
+"234","Armavir","11",null
+"235","Gegharkunik","11",null
+"236","Kotaik","11",null
+"237","Lori","11",null
+"238","Shirak","11",null
+"239","Stepanakert","11",null
+"240","Syunik","11",null
+"241","Tavush","11",null
+"242","Vayots Dzor","11",null
+"243","Yerevan","11",null
+"244","Aruba","12",null
+"245","Auckland","13",null
+"246","Australian Capital Territory","13",null
+"247","Balgowlah","13",null
+"248","Balmain","13",null
+"249","Bankstown","13",null
+"250","Baulkham Hills","13",null
+"251","Bonnet Bay","13",null
+"252","Camberwell","13",null
+"253","Carole Park","13",null
+"254","Castle Hill","13",null
+"255","Caulfield","13",null
+"256","Chatswood","13",null
+"257","Cheltenham","13",null
+"258","Cherrybrook","13",null
+"259","Clayton","13",null
+"260","Collingwood","13",null
+"261","Frenchs Forest","13",null
+"262","Hawthorn","13",null
+"263","Jannnali","13",null
+"264","Knoxfield","13",null
+"265","Melbourne","13",null
+"266","New South Wales","13",null
+"267","Northern Territory","13",null
+"268","Perth","13",null
+"269","Queensland","13",null
+"270","South Australia","13",null
+"271","Tasmania","13",null
+"272","Templestowe","13",null
+"273","Victoria","13",null
+"274","Werribee south","13",null
+"275","Western Australia","13",null
+"276","Wheeler","13",null
+"277","Bundesland Salzburg","14",null
+"278","Bundesland Steiermark","14",null
+"279","Bundesland Tirol","14",null
+"280","Burgenland","14",null
+"281","Carinthia","14",null
+"282","Karnten","14",null
+"283","Liezen","14",null
+"284","Lower Austria","14",null
+"285","Niederosterreich","14",null
+"286","Oberosterreich","14",null
+"287","Salzburg","14",null
+"288","Schleswig-Holstein","14",null
+"289","Steiermark","14",null
+"290","Styria","14",null
+"291","Tirol","14",null
+"292","Upper Austria","14",null
+"293","Vorarlberg","14",null
+"294","Wien","14",null
+"295","Abseron","15",null
+"296","Baki Sahari","15",null
+"297","Ganca","15",null
+"298","Ganja","15",null
+"299","Kalbacar","15",null
+"300","Lankaran","15",null
+"301","Mil-Qarabax","15",null
+"302","Mugan-Salyan","15",null
+"303","Nagorni-Qarabax","15",null
+"304","Naxcivan","15",null
+"305","Priaraks","15",null
+"306","Qazax","15",null
+"307","Saki","15",null
+"308","Sirvan","15",null
+"309","Xacmaz","15",null
+"310","Abaco","16",null
+"311","Acklins Island","16",null
+"312","Andros","16",null
+"313","Berry Islands","16",null
+"314","Biminis","16",null
+"315","Cat Island","16",null
+"316","Crooked Island","16",null
+"317","Eleuthera","16",null
+"318","Exuma and Cays","16",null
+"319","Grand Bahama","16",null
+"320","Inagua Islands","16",null
+"321","Long Island","16",null
+"322","Mayaguana","16",null
+"323","New Providence","16",null
+"324","Ragged Island","16",null
+"325","Rum Cay","16",null
+"326","San Salvador","16",null
+"327","Isa","17",null
+"328","Badiyah","17",null
+"329","Hidd","17",null
+"330","Jidd Hafs","17",null
+"331","Mahama","17",null
+"332","Manama","17",null
+"333","Sitrah","17",null
+"334","al-Manamah","17",null
+"335","al-Muharraq","17",null
+"336","ar-Rifa  a","17",null
+"337","Bagar Hat","18",null
+"338","Bandarban","18",null
+"339","Barguna","18",null
+"340","Barisal","18",null
+"341","Bhola","18",null
+"342","Bogora","18",null
+"343","Brahman Bariya","18",null
+"344","Chandpur","18",null
+"345","Chattagam","18",null
+"346","Chittagong Division","18",null
+"347","Chuadanga","18",null
+"348","Dhaka","18",null
+"349","Dinajpur","18",null
+"350","Faridpur","18",null
+"351","Feni","18",null
+"352","Gaybanda","18",null
+"353","Gazipur","18",null
+"354","Gopalganj","18",null
+"355","Habiganj","18",null
+"356","Jaipur Hat","18",null
+"357","Jamalpur","18",null
+"358","Jessor","18",null
+"359","Jhalakati","18",null
+"360","Jhanaydah","18",null
+"361","Khagrachhari","18",null
+"362","Khulna","18",null
+"363","Kishorganj","18",null
+"364","Koks Bazar","18",null
+"365","Komilla","18",null
+"366","Kurigram","18",null
+"367","Kushtiya","18",null
+"368","Lakshmipur","18",null
+"369","Lalmanir Hat","18",null
+"370","Madaripur","18",null
+"371","Magura","18",null
+"372","Maimansingh","18",null
+"373","Manikganj","18",null
+"374","Maulvi Bazar","18",null
+"375","Meherpur","18",null
+"376","Munshiganj","18",null
+"377","Naral","18",null
+"378","Narayanganj","18",null
+"379","Narsingdi","18",null
+"380","Nator","18",null
+"381","Naugaon","18",null
+"382","Nawabganj","18",null
+"383","Netrakona","18",null
+"384","Nilphamari","18",null
+"385","Noakhali","18",null
+"386","Pabna","18",null
+"387","Panchagarh","18",null
+"388","Patuakhali","18",null
+"389","Pirojpur","18",null
+"390","Rajbari","18",null
+"391","Rajshahi","18",null
+"392","Rangamati","18",null
+"393","Rangpur","18",null
+"394","Satkhira","18",null
+"395","Shariatpur","18",null
+"396","Sherpur","18",null
+"397","Silhat","18",null
+"398","Sirajganj","18",null
+"399","Sunamganj","18",null
+"400","Tangayal","18",null
+"401","Thakurgaon","18",null
+"402","Christ Church","19",null
+"403","Saint Andrew","19",null
+"404","Saint George","19",null
+"405","Saint James","19",null
+"406","Saint John","19",null
+"407","Saint Joseph","19",null
+"408","Saint Lucy","19",null
+"409","Saint Michael","19",null
+"410","Saint Peter","19",null
+"411","Saint Philip","19",null
+"412","Saint Thomas","19",null
+"413","Brest","20",null
+"414","Homjel","20",null
+"415","Hrodna","20",null
+"416","Mahiljow","20",null
+"417","Mahilyowskaya Voblasts","20",null
+"418","Minsk","20",null
+"419","Minskaja Voblasts","20",null
+"420","Petrik","20",null
+"421","Vicebsk","20",null
+"422","Antwerpen","21",null
+"423","Berchem","21",null
+"424","Brabant","21",null
+"425","Brabant Wallon","21",null
+"426","Brussel","21",null
+"427","East Flanders","21",null
+"428","Hainaut","21",null
+"429","Liege","21",null
+"430","Limburg","21",null
+"431","Luxembourg","21",null
+"432","Namur","21",null
+"433","Ontario","21",null
+"434","Oost-Vlaanderen","21",null
+"435","Provincie Brabant","21",null
+"436","Vlaams-Brabant","21",null
+"437","Wallonne","21",null
+"438","West-Vlaanderen","21",null
+"439","Belize","22",null
+"440","Cayo","22",null
+"441","Corozal","22",null
+"442","Orange Walk","22",null
+"443","Stann Creek","22",null
+"444","Toledo","22",null
+"445","Alibori","23",null
+"446","Atacora","23",null
+"447","Atlantique","23",null
+"448","Borgou","23",null
+"449","Collines","23",null
+"450","Couffo","23",null
+"451","Donga","23",null
+"452","Littoral","23",null
+"453","Mono","23",null
+"454","Oueme","23",null
+"455","Plateau","23",null
+"456","Zou","23",null
+"457","Hamilton","24",null
+"458","Saint George","24",null
+"459","Bumthang","25",null
+"460","Chhukha","25",null
+"461","Chirang","25",null
+"462","Daga","25",null
+"463","Geylegphug","25",null
+"464","Ha","25",null
+"465","Lhuntshi","25",null
+"466","Mongar","25",null
+"467","Pemagatsel","25",null
+"468","Punakha","25",null
+"469","Rinpung","25",null
+"470","Samchi","25",null
+"471","Samdrup Jongkhar","25",null
+"472","Shemgang","25",null
+"473","Tashigang","25",null
+"474","Timphu","25",null
+"475","Tongsa","25",null
+"476","Wangdiphodrang","25",null
+"477","Beni","26",null
+"478","Chuquisaca","26",null
+"479","Cochabamba","26",null
+"480","La Paz","26",null
+"481","Oruro","26",null
+"482","Pando","26",null
+"483","Potosi","26",null
+"484","Santa Cruz","26",null
+"485","Tarija","26",null
+"486","Federacija Bosna i Hercegovina","27",null
+"487","Republika Srpska","27",null
+"488","Central Bobonong","28",null
+"489","Central Boteti","28",null
+"490","Central Mahalapye","28",null
+"491","Central Serowe-Palapye","28",null
+"492","Central Tutume","28",null
+"493","Chobe","28",null
+"494","Francistown","28",null
+"495","Gaborone","28",null
+"496","Ghanzi","28",null
+"497","Jwaneng","28",null
+"498","Kgalagadi North","28",null
+"499","Kgalagadi South","28",null
+"500","Kgatleng","28",null
+"501","Kweneng","28",null
+"502","Lobatse","28",null
+"503","Ngamiland","28",null
+"504","Ngwaketse","28",null
+"505","North East","28",null
+"506","Okavango","28",null
+"507","Orapa","28",null
+"508","Selibe Phikwe","28",null
+"509","South East","28",null
+"510","Sowa","28",null
+"511","Bouvet Island","29",null
+"512","Acre","30",null
+"513","Alagoas","30",null
+"514","Amapa","30",null
+"515","Amazonas","30",null
+"516","Bahia","30",null
+"517","Ceara","30",null
+"518","Distrito Federal","30",null
+"519","Espirito Santo","30",null
+"520","Estado de Sao Paulo","30",null
+"521","Goias","30",null
+"522","Maranhao","30",null
+"523","Mato Grosso","30",null
+"524","Mato Grosso do Sul","30",null
+"525","Minas Gerais","30",null
+"526","Para","30",null
+"527","Paraiba","30",null
+"528","Parana","30",null
+"529","Pernambuco","30",null
+"530","Piaui","30",null
+"531","Rio Grande do Norte","30",null
+"532","Rio Grande do Sul","30",null
+"533","Rio de Janeiro","30",null
+"534","Rondonia","30",null
+"535","Roraima","30",null
+"536","Santa Catarina","30",null
+"537","Sao Paulo","30",null
+"538","Sergipe","30",null
+"539","Tocantins","30",null
+"540","British Indian Ocean Territory","31",null
+"541","Belait","32",null
+"542","Brunei-Muara","32",null
+"543","Temburong","32",null
+"544","Tutong","32",null
+"545","Blagoevgrad","33",null
+"546","Burgas","33",null
+"547","Dobrich","33",null
+"548","Gabrovo","33",null
+"549","Haskovo","33",null
+"550","Jambol","33",null
+"551","Kardzhali","33",null
+"552","Kjustendil","33",null
+"553","Lovech","33",null
+"554","Montana","33",null
+"555","Oblast Sofiya-Grad","33",null
+"556","Pazardzhik","33",null
+"557","Pernik","33",null
+"558","Pleven","33",null
+"559","Plovdiv","33",null
+"560","Razgrad","33",null
+"561","Ruse","33",null
+"562","Shumen","33",null
+"563","Silistra","33",null
+"564","Sliven","33",null
+"565","Smoljan","33",null
+"566","Sofija grad","33",null
+"567","Sofijska oblast","33",null
+"568","Stara Zagora","33",null
+"569","Targovishte","33",null
+"570","Varna","33",null
+"571","Veliko Tarnovo","33",null
+"572","Vidin","33",null
+"573","Vraca","33",null
+"574","Yablaniza","33",null
+"575","Bale","34",null
+"576","Bam","34",null
+"577","Bazega","34",null
+"578","Bougouriba","34",null
+"579","Boulgou","34",null
+"580","Boulkiemde","34",null
+"581","Comoe","34",null
+"582","Ganzourgou","34",null
+"583","Gnagna","34",null
+"584","Gourma","34",null
+"585","Houet","34",null
+"586","Ioba","34",null
+"587","Kadiogo","34",null
+"588","Kenedougou","34",null
+"589","Komandjari","34",null
+"590","Kompienga","34",null
+"591","Kossi","34",null
+"592","Kouritenga","34",null
+"593","Kourweogo","34",null
+"594","Leraba","34",null
+"595","Mouhoun","34",null
+"596","Nahouri","34",null
+"597","Namentenga","34",null
+"598","Noumbiel","34",null
+"599","Oubritenga","34",null
+"600","Oudalan","34",null
+"601","Passore","34",null
+"602","Poni","34",null
+"603","Sanguie","34",null
+"604","Sanmatenga","34",null
+"605","Seno","34",null
+"606","Sissili","34",null
+"607","Soum","34",null
+"608","Sourou","34",null
+"609","Tapoa","34",null
+"610","Tuy","34",null
+"611","Yatenga","34",null
+"612","Zondoma","34",null
+"613","Zoundweogo","34",null
+"614","Bubanza","35",null
+"615","Bujumbura","35",null
+"616","Bururi","35",null
+"617","Cankuzo","35",null
+"618","Cibitoke","35",null
+"619","Gitega","35",null
+"620","Karuzi","35",null
+"621","Kayanza","35",null
+"622","Kirundo","35",null
+"623","Makamba","35",null
+"624","Muramvya","35",null
+"625","Muyinga","35",null
+"626","Ngozi","35",null
+"627","Rutana","35",null
+"628","Ruyigi","35",null
+"629","Banteay Mean Chey","36",null
+"630","Bat Dambang","36",null
+"631","Kampong Cham","36",null
+"632","Kampong Chhnang","36",null
+"633","Kampong Spoeu","36",null
+"634","Kampong Thum","36",null
+"635","Kampot","36",null
+"636","Kandal","36",null
+"637","Kaoh Kong","36",null
+"638","Kracheh","36",null
+"639","Krong Kaeb","36",null
+"640","Krong Pailin","36",null
+"641","Krong Preah Sihanouk","36",null
+"642","Mondol Kiri","36",null
+"643","Otdar Mean Chey","36",null
+"644","Phnum Penh","36",null
+"645","Pousat","36",null
+"646","Preah Vihear","36",null
+"647","Prey Veaeng","36",null
+"648","Rotanak Kiri","36",null
+"649","Siem Reab","36",null
+"650","Stueng Traeng","36",null
+"651","Svay Rieng","36",null
+"652","Takaev","36",null
+"653","Adamaoua","37",null
+"654","Centre","37",null
+"655","Est","37",null
+"656","Littoral","37",null
+"657","Nord","37",null
+"658","Nord Extreme","37",null
+"659","Nordouest","37",null
+"660","Ouest","37",null
+"661","Sud","37",null
+"662","Sudouest","37",null
+"663","Alberta","38",null
+"664","British Columbia","38",null
+"665","Manitoba","38",null
+"666","New Brunswick","38",null
+"667","Newfoundland and Labrador","38",null
+"668","Northwest Territories","38",null
+"669","Nova Scotia","38",null
+"670","Nunavut","38",null
+"671","Ontario","38",null
+"672","Prince Edward Island","38",null
+"673","Quebec","38",null
+"674","Saskatchewan","38",null
+"675","Yukon","38",null
+"676","Boavista","39",null
+"677","Brava","39",null
+"678","Fogo","39",null
+"679","Maio","39",null
+"680","Sal","39",null
+"681","Santo Antao","39",null
+"682","Sao Nicolau","39",null
+"683","Sao Tiago","39",null
+"684","Sao Vicente","39",null
+"685","Grand Cayman","40",null
+"686","Bamingui-Bangoran","41",null
+"687","Bangui","41",null
+"688","Basse-Kotto","41",null
+"689","Haut-Mbomou","41",null
+"690","Haute-Kotto","41",null
+"691","Kemo","41",null
+"692","Lobaye","41",null
+"693","Mambere-Kadei","41",null
+"694","Mbomou","41",null
+"695","Nana-Gribizi","41",null
+"696","Nana-Mambere","41",null
+"697","Ombella Mpoko","41",null
+"698","Ouaka","41",null
+"699","Ouham","41",null
+"700","Ouham-Pende","41",null
+"701","Sangha-Mbaere","41",null
+"702","Vakaga","41",null
+"703","Batha","42",null
+"704","Biltine","42",null
+"705","Bourkou-Ennedi-Tibesti","42",null
+"706","Chari-Baguirmi","42",null
+"707","Guera","42",null
+"708","Kanem","42",null
+"709","Lac","42",null
+"710","Logone Occidental","42",null
+"711","Logone Oriental","42",null
+"712","Mayo-Kebbi","42",null
+"713","Moyen-Chari","42",null
+"714","Ouaddai","42",null
+"715","Salamat","42",null
+"716","Tandjile","42",null
+"717","Aisen","43",null
+"718","Antofagasta","43",null
+"719","Araucania","43",null
+"720","Atacama","43",null
+"721","Bio Bio","43",null
+"722","Coquimbo","43",null
+"723","Libertador General Bernardo O","43",null
+"724","Los Lagos","43",null
+"725","Magellanes","43",null
+"726","Maule","43",null
+"727","Metropolitana","43",null
+"728","Metropolitana de Santiago","43",null
+"729","Tarapaca","43",null
+"730","Valparaiso","43",null
+"731","Anhui","44",null
+"732","Anhui Province","44",null
+"733","Anhui Sheng","44",null
+"734","Aomen","44",null
+"735","Beijing","44",null
+"736","Beijing Shi","44",null
+"737","Chongqing","44",null
+"738","Fujian","44",null
+"739","Fujian Sheng","44",null
+"740","Gansu","44",null
+"741","Guangdong","44",null
+"742","Guangdong Sheng","44",null
+"743","Guangxi","44",null
+"744","Guizhou","44",null
+"745","Hainan","44",null
+"746","Hebei","44",null
+"747","Heilongjiang","44",null
+"748","Henan","44",null
+"749","Hubei","44",null
+"750","Hunan","44",null
+"751","Jiangsu","44",null
+"752","Jiangsu Sheng","44",null
+"753","Jiangxi","44",null
+"754","Jilin","44",null
+"755","Liaoning","44",null
+"756","Liaoning Sheng","44",null
+"757","Nei Monggol","44",null
+"758","Ningxia Hui","44",null
+"759","Qinghai","44",null
+"760","Shaanxi","44",null
+"761","Shandong","44",null
+"762","Shandong Sheng","44",null
+"763","Shanghai","44",null
+"764","Shanxi","44",null
+"765","Sichuan","44",null
+"766","Tianjin","44",null
+"767","Xianggang","44",null
+"768","Xinjiang","44",null
+"769","Xizang","44",null
+"770","Yunnan","44",null
+"771","Zhejiang","44",null
+"772","Zhejiang Sheng","44",null
+"773","Christmas Island","45",null
+"774","Cocos (Keeling) Islands","46",null
+"775","Amazonas","47",null
+"776","Antioquia","47",null
+"777","Arauca","47",null
+"778","Atlantico","47",null
+"779","Bogota","47",null
+"780","Bolivar","47",null
+"781","Boyaca","47",null
+"782","Caldas","47",null
+"783","Caqueta","47",null
+"784","Casanare","47",null
+"785","Cauca","47",null
+"786","Cesar","47",null
+"787","Choco","47",null
+"788","Cordoba","47",null
+"789","Cundinamarca","47",null
+"790","Guainia","47",null
+"791","Guaviare","47",null
+"792","Huila","47",null
+"793","La Guajira","47",null
+"794","Magdalena","47",null
+"795","Meta","47",null
+"796","Narino","47",null
+"797","Norte de Santander","47",null
+"798","Putumayo","47",null
+"799","Quindio","47",null
+"800","Risaralda","47",null
+"801","San Andres y Providencia","47",null
+"802","Santander","47",null
+"803","Sucre","47",null
+"804","Tolima","47",null
+"805","Valle del Cauca","47",null
+"806","Vaupes","47",null
+"807","Vichada","47",null
+"808","Mwali","48",null
+"809","Njazidja","48",null
+"810","Nzwani","48",null
+"811","Bouenza","49",null
+"812","Brazzaville","49",null
+"813","Cuvette","49",null
+"814","Kouilou","49",null
+"815","Lekoumou","49",null
+"816","Likouala","49",null
+"817","Niari","49",null
+"818","Plateaux","49",null
+"819","Pool","49",null
+"820","Sangha","49",null
+"821","Bandundu","50",null
+"822","Bas-Congo","50",null
+"823","Equateur","50",null
+"824","Haut-Congo","50",null
+"825","Kasai-Occidental","50",null
+"826","Kasai-Oriental","50",null
+"827","Katanga","50",null
+"828","Kinshasa","50",null
+"829","Maniema","50",null
+"830","Nord-Kivu","50",null
+"831","Sud-Kivu","50",null
+"832","Aitutaki","51",null
+"833","Atiu","51",null
+"834","Mangaia","51",null
+"835","Manihiki","51",null
+"836","Mauke","51",null
+"837","Mitiaro","51",null
+"838","Nassau","51",null
+"839","Pukapuka","51",null
+"840","Rakahanga","51",null
+"841","Rarotonga","51",null
+"842","Tongareva","51",null
+"843","Alajuela","52",null
+"844","Cartago","52",null
+"845","Guanacaste","52",null
+"846","Heredia","52",null
+"847","Limon","52",null
+"848","Puntarenas","52",null
+"849","San Jose","52",null
+"850","Abidjan","53",null
+"851","Agneby","53",null
+"852","Bafing","53",null
+"853","Denguele","53",null
+"854","Dix-huit Montagnes","53",null
+"855","Fromager","53",null
+"856","Haut-Sassandra","53",null
+"857","Lacs","53",null
+"858","Lagunes","53",null
+"859","Marahoue","53",null
+"860","Moyen-Cavally","53",null
+"861","Moyen-Comoe","53",null
+"862","N  zi-Comoe","53",null
+"863","Sassandra","53",null
+"864","Savanes","53",null
+"865","Sud-Bandama","53",null
+"866","Sud-Comoe","53",null
+"867","Vallee du Bandama","53",null
+"868","Worodougou","53",null
+"869","Zanzan","53",null
+"870","Bjelovar-Bilogora","54",null
+"871","Dubrovnik-Neretva","54",null
+"872","Grad Zagreb","54",null
+"873","Istra","54",null
+"874","Karlovac","54",null
+"875","Koprivnica-Krizhevci","54",null
+"876","Krapina-Zagorje","54",null
+"877","Lika-Senj","54",null
+"878","Medhimurje","54",null
+"879","Medimurska Zupanija","54",null
+"880","Osijek-Baranja","54",null
+"881","Osjecko-Baranjska Zupanija","54",null
+"882","Pozhega-Slavonija","54",null
+"883","Primorje-Gorski Kotar","54",null
+"884","Shibenik-Knin","54",null
+"885","Sisak-Moslavina","54",null
+"886","Slavonski Brod-Posavina","54",null
+"887","Split-Dalmacija","54",null
+"888","Varazhdin","54",null
+"889","Virovitica-Podravina","54",null
+"890","Vukovar-Srijem","54",null
+"891","Zadar","54",null
+"892","Zagreb","54",null
+"893","Camaguey","55",null
+"894","Ciego de Avila","55",null
+"895","Cienfuegos","55",null
+"896","Ciudad de la Habana","55",null
+"897","Granma","55",null
+"898","Guantanamo","55",null
+"899","Habana","55",null
+"900","Holguin","55",null
+"901","Isla de la Juventud","55",null
+"902","La Habana","55",null
+"903","Las Tunas","55",null
+"904","Matanzas","55",null
+"905","Pinar del Rio","55",null
+"906","Sancti Spiritus","55",null
+"907","Santiago de Cuba","55",null
+"908","Villa Clara","55",null
+"909","Government controlled area","56",null
+"910","Limassol","56",null
+"911","Nicosia District","56",null
+"912","Paphos","56",null
+"913","Turkish controlled area","56",null
+"914","Central Bohemian","57",null
+"915","Frycovice","57",null
+"916","Jihocesky Kraj","57",null
+"917","Jihochesky","57",null
+"918","Jihomoravsky","57",null
+"919","Karlovarsky","57",null
+"920","Klecany","57",null
+"921","Kralovehradecky","57",null
+"922","Liberecky","57",null
+"923","Lipov","57",null
+"924","Moravskoslezsky","57",null
+"925","Olomoucky","57",null
+"926","Olomoucky Kraj","57",null
+"927","Pardubicky","57",null
+"928","Plzensky","57",null
+"929","Praha","57",null
+"930","Rajhrad","57",null
+"931","Smirice","57",null
+"932","South Moravian","57",null
+"933","Straz nad Nisou","57",null
+"934","Stredochesky","57",null
+"935","Unicov","57",null
+"936","Ustecky","57",null
+"937","Valletta","57",null
+"938","Velesin","57",null
+"939","Vysochina","57",null
+"940","Zlinsky","57",null
+"941","Arhus","58",null
+"942","Bornholm","58",null
+"943","Frederiksborg","58",null
+"944","Fyn","58",null
+"945","Hovedstaden","58",null
+"946","Kobenhavn","58",null
+"947","Kobenhavns Amt","58",null
+"948","Kobenhavns Kommune","58",null
+"949","Nordjylland","58",null
+"950","Ribe","58",null
+"951","Ringkobing","58",null
+"952","Roervig","58",null
+"953","Roskilde","58",null
+"954","Roslev","58",null
+"955","Sjaelland","58",null
+"956","Soeborg","58",null
+"957","Sonderjylland","58",null
+"958","Storstrom","58",null
+"959","Syddanmark","58",null
+"960","Toelloese","58",null
+"961","Vejle","58",null
+"962","Vestsjalland","58",null
+"963","Viborg","58",null
+"964","Ali Sabih","59",null
+"965","Dikhil","59",null
+"966","Jibuti","59",null
+"967","Tajurah","59",null
+"968","Ubuk","59",null
+"969","Saint Andrew","60",null
+"970","Saint David","60",null
+"971","Saint George","60",null
+"972","Saint John","60",null
+"973","Saint Joseph","60",null
+"974","Saint Luke","60",null
+"975","Saint Mark","60",null
+"976","Saint Patrick","60",null
+"977","Saint Paul","60",null
+"978","Saint Peter","60",null
+"979","Azua","61",null
+"980","Bahoruco","61",null
+"981","Barahona","61",null
+"982","Dajabon","61",null
+"983","Distrito Nacional","61",null
+"984","Duarte","61",null
+"985","El Seybo","61",null
+"986","Elias Pina","61",null
+"987","Espaillat","61",null
+"988","Hato Mayor","61",null
+"989","Independencia","61",null
+"990","La Altagracia","61",null
+"991","La Romana","61",null
+"992","La Vega","61",null
+"993","Maria Trinidad Sanchez","61",null
+"994","Monsenor Nouel","61",null
+"995","Monte Cristi","61",null
+"996","Monte Plata","61",null
+"997","Pedernales","61",null
+"998","Peravia","61",null
+"999","Puerto Plata","61",null
+"1000","Salcedo","61",null
+"1001","Samana","61",null
+"1002","San Cristobal","61",null
+"1003","San Juan","61",null
+"1004","San Pedro de Macoris","61",null
+"1005","Sanchez Ramirez","61",null
+"1006","Santiago","61",null
+"1007","Santiago Rodriguez","61",null
+"1008","Valverde","61",null
+"1009","Aileu","62",null
+"1010","Ainaro","62",null
+"1011","Ambeno","62",null
+"1012","Baucau","62",null
+"1013","Bobonaro","62",null
+"1014","Cova Lima","62",null
+"1015","Dili","62",null
+"1016","Ermera","62",null
+"1017","Lautem","62",null
+"1018","Liquica","62",null
+"1019","Manatuto","62",null
+"1020","Manufahi","62",null
+"1021","Viqueque","62",null
+"1022","Azuay","63",null
+"1023","Bolivar","63",null
+"1024","Canar","63",null
+"1025","Carchi","63",null
+"1026","Chimborazo","63",null
+"1027","Cotopaxi","63",null
+"1028","El Oro","63",null
+"1029","Esmeraldas","63",null
+"1030","Galapagos","63",null
+"1031","Guayas","63",null
+"1032","Imbabura","63",null
+"1033","Loja","63",null
+"1034","Los Rios","63",null
+"1035","Manabi","63",null
+"1036","Morona Santiago","63",null
+"1037","Napo","63",null
+"1038","Orellana","63",null
+"1039","Pastaza","63",null
+"1040","Pichincha","63",null
+"1041","Sucumbios","63",null
+"1042","Tungurahua","63",null
+"1043","Zamora Chinchipe","63",null
+"1044","Aswan","64",null
+"1045","Asyut","64",null
+"1046","Bani Suwayf","64",null
+"1047","Bur Sa  id","64",null
+"1048","Cairo","64",null
+"1049","Dumyat","64",null
+"1050","Kafr-ash-Shaykh","64",null
+"1051","Matruh","64",null
+"1052","Muhafazat ad Daqahliyah","64",null
+"1053","Muhafazat al Fayyum","64",null
+"1054","Muhafazat al Gharbiyah","64",null
+"1055","Muhafazat al Iskandariyah","64",null
+"1056","Muhafazat al Qahirah","64",null
+"1057","Qina","64",null
+"1058","Sawhaj","64",null
+"1059","Sina al-Janubiyah","64",null
+"1060","Sina ash-Shamaliyah","64",null
+"1061","ad-Daqahliyah","64",null
+"1062","al-Bahr-al-Ahmar","64",null
+"1063","al-Buhayrah","64",null
+"1064","al-Fayyum","64",null
+"1065","al-Gharbiyah","64",null
+"1066","al-Iskandariyah","64",null
+"1067","al-Ismailiyah","64",null
+"1068","al-Jizah","64",null
+"1069","al-Minufiyah","64",null
+"1070","al-Minya","64",null
+"1071","al-Qahira","64",null
+"1072","al-Qalyubiyah","64",null
+"1073","al-Uqsur","64",null
+"1074","al-Wadi al-Jadid","64",null
+"1075","as-Suways","64",null
+"1076","ash-Sharqiyah","64",null
+"1077","Ahuachapan","65",null
+"1078","Cabanas","65",null
+"1079","Chalatenango","65",null
+"1080","Cuscatlan","65",null
+"1081","La Libertad","65",null
+"1082","La Paz","65",null
+"1083","La Union","65",null
+"1084","Morazan","65",null
+"1085","San Miguel","65",null
+"1086","San Salvador","65",null
+"1087","San Vicente","65",null
+"1088","Santa Ana","65",null
+"1089","Sonsonate","65",null
+"1090","Usulutan","65",null
+"1091","Annobon","66",null
+"1092","Bioko Norte","66",null
+"1093","Bioko Sur","66",null
+"1094","Centro Sur","66",null
+"1095","Kie-Ntem","66",null
+"1096","Litoral","66",null
+"1097","Wele-Nzas","66",null
+"1098","Anseba","67",null
+"1099","Debub","67",null
+"1100","Debub-Keih-Bahri","67",null
+"1101","Gash-Barka","67",null
+"1102","Maekel","67",null
+"1103","Semien-Keih-Bahri","67",null
+"1104","Harju","68",null
+"1105","Hiiu","68",null
+"1106","Ida-Viru","68",null
+"1107","Jarva","68",null
+"1108","Jogeva","68",null
+"1109","Laane","68",null
+"1110","Laane-Viru","68",null
+"1111","Parnu","68",null
+"1112","Polva","68",null
+"1113","Rapla","68",null
+"1114","Saare","68",null
+"1115","Tartu","68",null
+"1116","Valga","68",null
+"1117","Viljandi","68",null
+"1118","Voru","68",null
+"1119","Addis Abeba","69",null
+"1120","Afar","69",null
+"1121","Amhara","69",null
+"1122","Benishangul","69",null
+"1123","Diredawa","69",null
+"1124","Gambella","69",null
+"1125","Harar","69",null
+"1126","Jigjiga","69",null
+"1127","Mekele","69",null
+"1128","Oromia","69",null
+"1129","Somali","69",null
+"1130","Southern","69",null
+"1131","Tigray","69",null
+"1132","Christmas Island","70",null
+"1133","Cocos Islands","70",null
+"1134","Coral Sea Islands","70",null
+"1135","Falkland Islands","71",null
+"1136","South Georgia","71",null
+"1137","Klaksvik","72",null
+"1138","Nor ara Eysturoy","72",null
+"1139","Nor oy","72",null
+"1140","Sandoy","72",null
+"1141","Streymoy","72",null
+"1142","Su uroy","72",null
+"1143","Sy ra Eysturoy","72",null
+"1144","Torshavn","72",null
+"1145","Vaga","72",null
+"1146","Central","73",null
+"1147","Eastern","73",null
+"1148","Northern","73",null
+"1149","South Pacific","73",null
+"1150","Western","73",null
+"1151","Ahvenanmaa","74",null
+"1152","Etela-Karjala","74",null
+"1153","Etela-Pohjanmaa","74",null
+"1154","Etela-Savo","74",null
+"1155","Etela-Suomen Laani","74",null
+"1156","Ita-Suomen Laani","74",null
+"1157","Ita-Uusimaa","74",null
+"1158","Kainuu","74",null
+"1159","Kanta-Hame","74",null
+"1160","Keski-Pohjanmaa","74",null
+"1161","Keski-Suomi","74",null
+"1162","Kymenlaakso","74",null
+"1163","Lansi-Suomen Laani","74",null
+"1164","Lappi","74",null
+"1165","Northern Savonia","74",null
+"1166","Ostrobothnia","74",null
+"1167","Oulun Laani","74",null
+"1168","Paijat-Hame","74",null
+"1169","Pirkanmaa","74",null
+"1170","Pohjanmaa","74",null
+"1171","Pohjois-Karjala","74",null
+"1172","Pohjois-Pohjanmaa","74",null
+"1173","Pohjois-Savo","74",null
+"1174","Saarijarvi","74",null
+"1175","Satakunta","74",null
+"1176","Southern Savonia","74",null
+"1177","Tavastia Proper","74",null
+"1178","Uleaborgs Lan","74",null
+"1179","Uusimaa","74",null
+"1180","Varsinais-Suomi","74",null
+"1181","Ain","75",null
+"1182","Aisne","75",null
+"1183","Albi Le Sequestre","75",null
+"1184","Allier","75",null
+"1185","Alpes-Cote dAzur","75",null
+"1186","Alpes-Maritimes","75",null
+"1187","Alpes-de-Haute-Provence","75",null
+"1188","Alsace","75",null
+"1189","Aquitaine","75",null
+"1190","Ardeche","75",null
+"1191","Ardennes","75",null
+"1192","Ariege","75",null
+"1193","Aube","75",null
+"1194","Aude","75",null
+"1195","Auvergne","75",null
+"1196","Aveyron","75",null
+"1197","Bas-Rhin","75",null
+"1198","Basse-Normandie","75",null
+"1199","Bouches-du-Rhone","75",null
+"1200","Bourgogne","75",null
+"1201","Bretagne","75",null
+"1202","Brittany","75",null
+"1203","Burgundy","75",null
+"1204","Calvados","75",null
+"1205","Cantal","75",null
+"1206","Cedex","75",null
+"1207","Centre","75",null
+"1208","Charente","75",null
+"1209","Charente-Maritime","75",null
+"1210","Cher","75",null
+"1211","Correze","75",null
+"1212","Corse-du-Sud","75",null
+"1213","Cote-d  Or","75",null
+"1214","Cotes-d  Armor","75",null
+"1215","Creuse","75",null
+"1216","Crolles","75",null
+"1217","Deux-Sevres","75",null
+"1218","Dordogne","75",null
+"1219","Doubs","75",null
+"1220","Drome","75",null
+"1221","Essonne","75",null
+"1222","Eure","75",null
+"1223","Eure-et-Loir","75",null
+"1224","Feucherolles","75",null
+"1225","Finistere","75",null
+"1226","Franche-Comte","75",null
+"1227","Gard","75",null
+"1228","Gers","75",null
+"1229","Gironde","75",null
+"1230","Haut-Rhin","75",null
+"1231","Haute-Corse","75",null
+"1232","Haute-Garonne","75",null
+"1233","Haute-Loire","75",null
+"1234","Haute-Marne","75",null
+"1235","Haute-Saone","75",null
+"1236","Haute-Savoie","75",null
+"1237","Haute-Vienne","75",null
+"1238","Hautes-Alpes","75",null
+"1239","Hautes-Pyrenees","75",null
+"1240","Hauts-de-Seine","75",null
+"1241","Herault","75",null
+"1242","Ile-de-France","75",null
+"1243","Ille-et-Vilaine","75",null
+"1244","Indre","75",null
+"1245","Indre-et-Loire","75",null
+"1246","Isere","75",null
+"1247","Jura","75",null
+"1248","Klagenfurt","75",null
+"1249","Landes","75",null
+"1250","Languedoc-Roussillon","75",null
+"1251","Larcay","75",null
+"1252","Le Castellet","75",null
+"1253","Le Creusot","75",null
+"1254","Limousin","75",null
+"1255","Loir-et-Cher","75",null
+"1256","Loire","75",null
+"1257","Loire-Atlantique","75",null
+"1258","Loiret","75",null
+"1259","Lorraine","75",null
+"1260","Lot","75",null
+"1261","Lot-et-Garonne","75",null
+"1262","Lower Normandy","75",null
+"1263","Lozere","75",null
+"1264","Maine-et-Loire","75",null
+"1265","Manche","75",null
+"1266","Marne","75",null
+"1267","Mayenne","75",null
+"1268","Meurthe-et-Moselle","75",null
+"1269","Meuse","75",null
+"1270","Midi-Pyrenees","75",null
+"1271","Morbihan","75",null
+"1272","Moselle","75",null
+"1273","Nievre","75",null
+"1274","Nord","75",null
+"1275","Nord-Pas-de-Calais","75",null
+"1276","Oise","75",null
+"1277","Orne","75",null
+"1278","Paris","75",null
+"1279","Pas-de-Calais","75",null
+"1280","Pays de la Loire","75",null
+"1281","Pays-de-la-Loire","75",null
+"1282","Picardy","75",null
+"1283","Puy-de-Dome","75",null
+"1284","Pyrenees-Atlantiques","75",null
+"1285","Pyrenees-Orientales","75",null
+"1286","Quelmes","75",null
+"1287","Rhone","75",null
+"1288","Rhone-Alpes","75",null
+"1289","Saint Ouen","75",null
+"1290","Saint Viatre","75",null
+"1291","Saone-et-Loire","75",null
+"1292","Sarthe","75",null
+"1293","Savoie","75",null
+"1294","Seine-Maritime","75",null
+"1295","Seine-Saint-Denis","75",null
+"1296","Seine-et-Marne","75",null
+"1297","Somme","75",null
+"1298","Sophia Antipolis","75",null
+"1299","Souvans","75",null
+"1300","Tarn","75",null
+"1301","Tarn-et-Garonne","75",null
+"1302","Territoire de Belfort","75",null
+"1303","Treignac","75",null
+"1304","Upper Normandy","75",null
+"1305","Val-d  Oise","75",null
+"1306","Val-de-Marne","75",null
+"1307","Var","75",null
+"1308","Vaucluse","75",null
+"1309","Vellise","75",null
+"1310","Vendee","75",null
+"1311","Vienne","75",null
+"1312","Vosges","75",null
+"1313","Yonne","75",null
+"1314","Yvelines","75",null
+"1315","Cayenne","76",null
+"1316","Saint-Laurent-du-Maroni","76",null
+"1317","Iles du Vent","77",null
+"1318","Iles sous le Vent","77",null
+"1319","Marquesas","77",null
+"1320","Tuamotu","77",null
+"1321","Tubuai","77",null
+"1322","Amsterdam","78",null
+"1323","Crozet Islands","78",null
+"1324","Kerguelen","78",null
+"1325","Estuaire","79",null
+"1326","Haut-Ogooue","79",null
+"1327","Moyen-Ogooue","79",null
+"1328","Ngounie","79",null
+"1329","Nyanga","79",null
+"1330","Ogooue-Ivindo","79",null
+"1331","Ogooue-Lolo","79",null
+"1332","Ogooue-Maritime","79",null
+"1333","Woleu-Ntem","79",null
+"1334","Banjul","80",null
+"1335","Basse","80",null
+"1336","Brikama","80",null
+"1337","Janjanbureh","80",null
+"1338","Kanifing","80",null
+"1339","Kerewan","80",null
+"1340","Kuntaur","80",null
+"1341","Mansakonko","80",null
+"1342","Abhasia","81",null
+"1343","Ajaria","81",null
+"1344","Guria","81",null
+"1345","Imereti","81",null
+"1346","Kaheti","81",null
+"1347","Kvemo Kartli","81",null
+"1348","Mcheta-Mtianeti","81",null
+"1349","Racha","81",null
+"1350","Samagrelo-Zemo Svaneti","81",null
+"1351","Samche-Zhavaheti","81",null
+"1352","Shida Kartli","81",null
+"1353","Tbilisi","81",null
+"1354","Auvergne","82",null
+"1355","Baden-Wurttemberg","82",null
+"1356","Bavaria","82",null
+"1357","Bayern","82",null
+"1358","Beilstein Wurtt","82",null
+"1359","Berlin","82",null
+"1360","Brandenburg","82",null
+"1361","Bremen","82",null
+"1362","Dreisbach","82",null
+"1363","Freistaat Bayern","82",null
+"1364","Hamburg","82",null
+"1365","Hannover","82",null
+"1366","Heroldstatt","82",null
+"1367","Hessen","82",null
+"1368","Kortenberg","82",null
+"1369","Laasdorf","82",null
+"1370","Land Baden-Wurttemberg","82",null
+"1371","Land Bayern","82",null
+"1372","Land Brandenburg","82",null
+"1373","Land Hessen","82",null
+"1374","Land Mecklenburg-Vorpommern","82",null
+"1375","Land Nordrhein-Westfalen","82",null
+"1376","Land Rheinland-Pfalz","82",null
+"1377","Land Sachsen","82",null
+"1378","Land Sachsen-Anhalt","82",null
+"1379","Land Thuringen","82",null
+"1380","Lower Saxony","82",null
+"1381","Mecklenburg-Vorpommern","82",null
+"1382","Mulfingen","82",null
+"1383","Munich","82",null
+"1384","Neubeuern","82",null
+"1385","Niedersachsen","82",null
+"1386","Noord-Holland","82",null
+"1387","Nordrhein-Westfalen","82",null
+"1388","North Rhine-Westphalia","82",null
+"1389","Osterode","82",null
+"1390","Rheinland-Pfalz","82",null
+"1391","Rhineland-Palatinate","82",null
+"1392","Saarland","82",null
+"1393","Sachsen","82",null
+"1394","Sachsen-Anhalt","82",null
+"1395","Saxony","82",null
+"1396","Schleswig-Holstein","82",null
+"1397","Thuringia","82",null
+"1398","Webling","82",null
+"1399","Weinstrabe","82",null
+"1400","schlobborn","82",null
+"1401","Ashanti","83",null
+"1402","Brong-Ahafo","83",null
+"1403","Central","83",null
+"1404","Eastern","83",null
+"1405","Greater Accra","83",null
+"1406","Northern","83",null
+"1407","Upper East","83",null
+"1408","Upper West","83",null
+"1409","Volta","83",null
+"1410","Western","83",null
+"1411","Gibraltar","84",null
+"1412","Acharnes","85",null
+"1413","Ahaia","85",null
+"1414","Aitolia kai Akarnania","85",null
+"1415","Argolis","85",null
+"1416","Arkadia","85",null
+"1417","Arta","85",null
+"1418","Attica","85",null
+"1419","Attiki","85",null
+"1420","Ayion Oros","85",null
+"1421","Crete","85",null
+"1422","Dodekanisos","85",null
+"1423","Drama","85",null
+"1424","Evia","85",null
+"1425","Evritania","85",null
+"1426","Evros","85",null
+"1427","Evvoia","85",null
+"1428","Florina","85",null
+"1429","Fokis","85",null
+"1430","Fthiotis","85",null
+"1431","Grevena","85",null
+"1432","Halandri","85",null
+"1433","Halkidiki","85",null
+"1434","Hania","85",null
+"1435","Heraklion","85",null
+"1436","Hios","85",null
+"1437","Ilia","85",null
+"1438","Imathia","85",null
+"1439","Ioannina","85",null
+"1440","Iraklion","85",null
+"1441","Karditsa","85",null
+"1442","Kastoria","85",null
+"1443","Kavala","85",null
+"1444","Kefallinia","85",null
+"1445","Kerkira","85",null
+"1446","Kiklades","85",null
+"1447","Kilkis","85",null
+"1448","Korinthia","85",null
+"1449","Kozani","85",null
+"1450","Lakonia","85",null
+"1451","Larisa","85",null
+"1452","Lasithi","85",null
+"1453","Lesvos","85",null
+"1454","Levkas","85",null
+"1455","Magnisia","85",null
+"1456","Messinia","85",null
+"1457","Nomos Attikis","85",null
+"1458","Nomos Zakynthou","85",null
+"1459","Pella","85",null
+"1460","Pieria","85",null
+"1461","Piraios","85",null
+"1462","Preveza","85",null
+"1463","Rethimni","85",null
+"1464","Rodopi","85",null
+"1465","Samos","85",null
+"1466","Serrai","85",null
+"1467","Thesprotia","85",null
+"1468","Thessaloniki","85",null
+"1469","Trikala","85",null
+"1470","Voiotia","85",null
+"1471","West Greece","85",null
+"1472","Xanthi","85",null
+"1473","Zakinthos","85",null
+"1474","Aasiaat","86",null
+"1475","Ammassalik","86",null
+"1476","Illoqqortoormiut","86",null
+"1477","Ilulissat","86",null
+"1478","Ivittuut","86",null
+"1479","Kangaatsiaq","86",null
+"1480","Maniitsoq","86",null
+"1481","Nanortalik","86",null
+"1482","Narsaq","86",null
+"1483","Nuuk","86",null
+"1484","Paamiut","86",null
+"1485","Qaanaaq","86",null
+"1486","Qaqortoq","86",null
+"1487","Qasigiannguit","86",null
+"1488","Qeqertarsuaq","86",null
+"1489","Sisimiut","86",null
+"1490","Udenfor kommunal inddeling","86",null
+"1491","Upernavik","86",null
+"1492","Uummannaq","86",null
+"1493","Carriacou-Petite Martinique","87",null
+"1494","Saint Andrew","87",null
+"1495","Saint Davids","87",null
+"1496","Saint George  s","87",null
+"1497","Saint John","87",null
+"1498","Saint Mark","87",null
+"1499","Saint Patrick","87",null
+"1500","Basse-Terre","88",null
+"1501","Grande-Terre","88",null
+"1502","Iles des Saintes","88",null
+"1503","La Desirade","88",null
+"1504","Marie-Galante","88",null
+"1505","Saint Barthelemy","88",null
+"1506","Saint Martin","88",null
+"1507","Agana Heights","89",null
+"1508","Agat","89",null
+"1509","Barrigada","89",null
+"1510","Chalan-Pago-Ordot","89",null
+"1511","Dededo","89",null
+"1512","Hagatna","89",null
+"1513","Inarajan","89",null
+"1514","Mangilao","89",null
+"1515","Merizo","89",null
+"1516","Mongmong-Toto-Maite","89",null
+"1517","Santa Rita","89",null
+"1518","Sinajana","89",null
+"1519","Talofofo","89",null
+"1520","Tamuning","89",null
+"1521","Yigo","89",null
+"1522","Yona","89",null
+"1523","Alta Verapaz","90",null
+"1524","Baja Verapaz","90",null
+"1525","Chimaltenango","90",null
+"1526","Chiquimula","90",null
+"1527","El Progreso","90",null
+"1528","Escuintla","90",null
+"1529","Guatemala","90",null
+"1530","Huehuetenango","90",null
+"1531","Izabal","90",null
+"1532","Jalapa","90",null
+"1533","Jutiapa","90",null
+"1534","Peten","90",null
+"1535","Quezaltenango","90",null
+"1536","Quiche","90",null
+"1537","Retalhuleu","90",null
+"1538","Sacatepequez","90",null
+"1539","San Marcos","90",null
+"1540","Santa Rosa","90",null
+"1541","Solola","90",null
+"1542","Suchitepequez","90",null
+"1543","Totonicapan","90",null
+"1544","Zacapa","90",null
+"1545","Alderney","91",null
+"1546","Castel","91",null
+"1547","Forest","91",null
+"1548","Saint Andrew","91",null
+"1549","Saint Martin","91",null
+"1550","Saint Peter Port","91",null
+"1551","Saint Pierre du Bois","91",null
+"1552","Saint Sampson","91",null
+"1553","Saint Saviour","91",null
+"1554","Sark","91",null
+"1555","Torteval","91",null
+"1556","Vale","91",null
+"1557","Beyla","92",null
+"1558","Boffa","92",null
+"1559","Boke","92",null
+"1560","Conakry","92",null
+"1561","Coyah","92",null
+"1562","Dabola","92",null
+"1563","Dalaba","92",null
+"1564","Dinguiraye","92",null
+"1565","Faranah","92",null
+"1566","Forecariah","92",null
+"1567","Fria","92",null
+"1568","Gaoual","92",null
+"1569","Gueckedou","92",null
+"1570","Kankan","92",null
+"1571","Kerouane","92",null
+"1572","Kindia","92",null
+"1573","Kissidougou","92",null
+"1574","Koubia","92",null
+"1575","Koundara","92",null
+"1576","Kouroussa","92",null
+"1577","Labe","92",null
+"1578","Lola","92",null
+"1579","Macenta","92",null
+"1580","Mali","92",null
+"1581","Mamou","92",null
+"1582","Mandiana","92",null
+"1583","Nzerekore","92",null
+"1584","Pita","92",null
+"1585","Siguiri","92",null
+"1586","Telimele","92",null
+"1587","Tougue","92",null
+"1588","Yomou","92",null
+"1589","Bafata","93",null
+"1590","Bissau","93",null
+"1591","Bolama","93",null
+"1592","Cacheu","93",null
+"1593","Gabu","93",null
+"1594","Oio","93",null
+"1595","Quinara","93",null
+"1596","Tombali","93",null
+"1597","Barima-Waini","94",null
+"1598","Cuyuni-Mazaruni","94",null
+"1599","Demerara-Mahaica","94",null
+"1600","East Berbice-Corentyne","94",null
+"1601","Essequibo Islands-West Demerar","94",null
+"1602","Mahaica-Berbice","94",null
+"1603","Pomeroon-Supenaam","94",null
+"1604","Potaro-Siparuni","94",null
+"1605","Upper Demerara-Berbice","94",null
+"1606","Upper Takutu-Upper Essequibo","94",null
+"1607","Artibonite","95",null
+"1608","Centre","95",null
+"1609","Grand  Anse","95",null
+"1610","Nord","95",null
+"1611","Nord-Est","95",null
+"1612","Nord-Ouest","95",null
+"1613","Ouest","95",null
+"1614","Sud","95",null
+"1615","Sud-Est","95",null
+"1616","Heard and McDonald Islands","96",null
+"1617","Atlantida","97",null
+"1618","Choluteca","97",null
+"1619","Colon","97",null
+"1620","Comayagua","97",null
+"1621","Copan","97",null
+"1622","Cortes","97",null
+"1623","Distrito Central","97",null
+"1624","El Paraiso","97",null
+"1625","Francisco Morazan","97",null
+"1626","Gracias a Dios","97",null
+"1627","Intibuca","97",null
+"1628","Islas de la Bahia","97",null
+"1629","La Paz","97",null
+"1630","Lempira","97",null
+"1631","Ocotepeque","97",null
+"1632","Olancho","97",null
+"1633","Santa Barbara","97",null
+"1634","Valle","97",null
+"1635","Yoro","97",null
+"1636","Hong Kong","98",null
+"1637","Bacs-Kiskun","99",null
+"1638","Baranya","99",null
+"1639","Bekes","99",null
+"1640","Borsod-Abauj-Zemplen","99",null
+"1641","Budapest","99",null
+"1642","Csongrad","99",null
+"1643","Fejer","99",null
+"1644","Gyor-Moson-Sopron","99",null
+"1645","Hajdu-Bihar","99",null
+"1646","Heves","99",null
+"1647","Jasz-Nagykun-Szolnok","99",null
+"1648","Komarom-Esztergom","99",null
+"1649","Nograd","99",null
+"1650","Pest","99",null
+"1651","Somogy","99",null
+"1652","Szabolcs-Szatmar-Bereg","99",null
+"1653","Tolna","99",null
+"1654","Vas","99",null
+"1655","Veszprem","99",null
+"1656","Zala","99",null
+"1657","Austurland","100",null
+"1658","Gullbringusysla","100",null
+"1659","Hofu borgarsva i","100",null
+"1660","Nor urland eystra","100",null
+"1661","Nor urland vestra","100",null
+"1662","Su urland","100",null
+"1663","Su urnes","100",null
+"1664","Vestfir ir","100",null
+"1665","Vesturland","100",null
+"1666","Aceh","102",null
+"1667","Bali","102",null
+"1668","Bangka-Belitung","102",null
+"1669","Banten","102",null
+"1670","Bengkulu","102",null
+"1671","Gandaria","102",null
+"1672","Gorontalo","102",null
+"1673","Jakarta","102",null
+"1674","Jambi","102",null
+"1675","Jawa Barat","102",null
+"1676","Jawa Tengah","102",null
+"1677","Jawa Timur","102",null
+"1678","Kalimantan Barat","102",null
+"1679","Kalimantan Selatan","102",null
+"1680","Kalimantan Tengah","102",null
+"1681","Kalimantan Timur","102",null
+"1682","Kendal","102",null
+"1683","Lampung","102",null
+"1684","Maluku","102",null
+"1685","Maluku Utara","102",null
+"1686","Nusa Tenggara Barat","102",null
+"1687","Nusa Tenggara Timur","102",null
+"1688","Papua","102",null
+"1689","Riau","102",null
+"1690","Riau Kepulauan","102",null
+"1691","Solo","102",null
+"1692","Sulawesi Selatan","102",null
+"1693","Sulawesi Tengah","102",null
+"1694","Sulawesi Tenggara","102",null
+"1695","Sulawesi Utara","102",null
+"1696","Sumatera Barat","102",null
+"1697","Sumatera Selatan","102",null
+"1698","Sumatera Utara","102",null
+"1699","Yogyakarta","102",null
+"1700","Ardabil","103",null
+"1701","Azarbayjan-e Bakhtari","103",null
+"1702","Azarbayjan-e Khavari","103",null
+"1703","Bushehr","103",null
+"1704","Chahar Mahal-e Bakhtiari","103",null
+"1705","Esfahan","103",null
+"1706","Fars","103",null
+"1707","Gilan","103",null
+"1708","Golestan","103",null
+"1709","Hamadan","103",null
+"1710","Hormozgan","103",null
+"1711","Ilam","103",null
+"1712","Kerman","103",null
+"1713","Kermanshah","103",null
+"1714","Khorasan","103",null
+"1715","Khuzestan","103",null
+"1716","Kohgiluyeh-e Boyerahmad","103",null
+"1717","Kordestan","103",null
+"1718","Lorestan","103",null
+"1719","Markazi","103",null
+"1720","Mazandaran","103",null
+"1721","Ostan-e Esfahan","103",null
+"1722","Qazvin","103",null
+"1723","Qom","103",null
+"1724","Semnan","103",null
+"1725","Sistan-e Baluchestan","103",null
+"1726","Tehran","103",null
+"1727","Yazd","103",null
+"1728","Zanjan","103",null
+"1729","Babil","104",null
+"1730","Baghdad","104",null
+"1731","Dahuk","104",null
+"1732","Dhi Qar","104",null
+"1733","Diyala","104",null
+"1734","Erbil","104",null
+"1735","Irbil","104",null
+"1736","Karbala","104",null
+"1737","Kurdistan","104",null
+"1738","Maysan","104",null
+"1739","Ninawa","104",null
+"1740","Salah-ad-Din","104",null
+"1741","Wasit","104",null
+"1742","al-Anbar","104",null
+"1743","al-Basrah","104",null
+"1744","al-Muthanna","104",null
+"1745","al-Qadisiyah","104",null
+"1746","an-Najaf","104",null
+"1747","as-Sulaymaniyah","104",null
+"1748","at-Ta  mim","104",null
+"1749","Armagh","105",null
+"1750","Carlow","105",null
+"1751","Cavan","105",null
+"1752","Clare","105",null
+"1753","Cork","105",null
+"1754","Donegal","105",null
+"1755","Dublin","105",null
+"1756","Galway","105",null
+"1757","Kerry","105",null
+"1758","Kildare","105",null
+"1759","Kilkenny","105",null
+"1760","Laois","105",null
+"1761","Leinster","105",null
+"1762","Leitrim","105",null
+"1763","Limerick","105",null
+"1764","Loch Garman","105",null
+"1765","Longford","105",null
+"1766","Louth","105",null
+"1767","Mayo","105",null
+"1768","Meath","105",null
+"1769","Monaghan","105",null
+"1770","Offaly","105",null
+"1771","Roscommon","105",null
+"1772","Sligo","105",null
+"1773","Tipperary North Riding","105",null
+"1774","Tipperary South Riding","105",null
+"1775","Ulster","105",null
+"1776","Waterford","105",null
+"1777","Westmeath","105",null
+"1778","Wexford","105",null
+"1779","Wicklow","105",null
+"1780","Beit Hanania","106",null
+"1781","Ben Gurion Airport","106",null
+"1782","Bethlehem","106",null
+"1783","Caesarea","106",null
+"1784","Centre","106",null
+"1785","Gaza","106",null
+"1786","Hadaron","106",null
+"1787","Haifa District","106",null
+"1788","Hamerkaz","106",null
+"1789","Hazafon","106",null
+"1790","Hebron","106",null
+"1791","Jaffa","106",null
+"1792","Jerusalem","106",null
+"1793","Khefa","106",null
+"1794","Kiryat Yam","106",null
+"1795","Lower Galilee","106",null
+"1796","Qalqilya","106",null
+"1797","Talme Elazar","106",null
+"1798","Tel Aviv","106",null
+"1799","Tsafon","106",null
+"1800","Umm El Fahem","106",null
+"1801","Yerushalayim","106",null
+"1802","Abruzzi","107",null
+"1803","Abruzzo","107",null
+"1804","Agrigento","107",null
+"1805","Alessandria","107",null
+"1806","Ancona","107",null
+"1807","Arezzo","107",null
+"1808","Ascoli Piceno","107",null
+"1809","Asti","107",null
+"1810","Avellino","107",null
+"1811","Bari","107",null
+"1812","Basilicata","107",null
+"1813","Belluno","107",null
+"1814","Benevento","107",null
+"1815","Bergamo","107",null
+"1816","Biella","107",null
+"1817","Bologna","107",null
+"1818","Bolzano","107",null
+"1819","Brescia","107",null
+"1820","Brindisi","107",null
+"1821","Calabria","107",null
+"1822","Campania","107",null
+"1823","Cartoceto","107",null
+"1824","Caserta","107",null
+"1825","Catania","107",null
+"1826","Chieti","107",null
+"1827","Como","107",null
+"1828","Cosenza","107",null
+"1829","Cremona","107",null
+"1830","Cuneo","107",null
+"1831","Emilia-Romagna","107",null
+"1832","Ferrara","107",null
+"1833","Firenze","107",null
+"1834","Florence","107",null
+"1835","Forli-Cesena","107",null
+"1836","Friuli-Venezia Giulia","107",null
+"1837","Frosinone","107",null
+"1838","Genoa","107",null
+"1839","Gorizia","107",null
+"1840","L  Aquila","107",null
+"1841","Lazio","107",null
+"1842","Lecce","107",null
+"1843","Lecco","107",null
+"1844","Lecco Province","107",null
+"1845","Liguria","107",null
+"1846","Lodi","107",null
+"1847","Lombardia","107",null
+"1848","Lombardy","107",null
+"1849","Macerata","107",null
+"1850","Mantova","107",null
+"1851","Marche","107",null
+"1852","Messina","107",null
+"1853","Milan","107",null
+"1854","Modena","107",null
+"1855","Molise","107",null
+"1856","Molteno","107",null
+"1857","Montenegro","107",null
+"1858","Monza and Brianza","107",null
+"1859","Naples","107",null
+"1860","Novara","107",null
+"1861","Padova","107",null
+"1862","Parma","107",null
+"1863","Pavia","107",null
+"1864","Perugia","107",null
+"1865","Pesaro-Urbino","107",null
+"1866","Piacenza","107",null
+"1867","Piedmont","107",null
+"1868","Piemonte","107",null
+"1869","Pisa","107",null
+"1870","Pordenone","107",null
+"1871","Potenza","107",null
+"1872","Puglia","107",null
+"1873","Reggio Emilia","107",null
+"1874","Rimini","107",null
+"1875","Roma","107",null
+"1876","Salerno","107",null
+"1877","Sardegna","107",null
+"1878","Sassari","107",null
+"1879","Savona","107",null
+"1880","Sicilia","107",null
+"1881","Siena","107",null
+"1882","Sondrio","107",null
+"1883","South Tyrol","107",null
+"1884","Taranto","107",null
+"1885","Teramo","107",null
+"1886","Torino","107",null
+"1887","Toscana","107",null
+"1888","Trapani","107",null
+"1889","Trentino-Alto Adige","107",null
+"1890","Trento","107",null
+"1891","Treviso","107",null
+"1892","Udine","107",null
+"1893","Umbria","107",null
+"1894","Valle d  Aosta","107",null
+"1895","Varese","107",null
+"1896","Veneto","107",null
+"1897","Venezia","107",null
+"1898","Verbano-Cusio-Ossola","107",null
+"1899","Vercelli","107",null
+"1900","Verona","107",null
+"1901","Vicenza","107",null
+"1902","Viterbo","107",null
+"1903","Buxoro Viloyati","108",null
+"1904","Clarendon","108",null
+"1905","Hanover","108",null
+"1906","Kingston","108",null
+"1907","Manchester","108",null
+"1908","Portland","108",null
+"1909","Saint Andrews","108",null
+"1910","Saint Ann","108",null
+"1911","Saint Catherine","108",null
+"1912","Saint Elizabeth","108",null
+"1913","Saint James","108",null
+"1914","Saint Mary","108",null
+"1915","Saint Thomas","108",null
+"1916","Trelawney","108",null
+"1917","Westmoreland","108",null
+"1918","Aichi","109",null
+"1919","Akita","109",null
+"1920","Aomori","109",null
+"1921","Chiba","109",null
+"1922","Ehime","109",null
+"1923","Fukui","109",null
+"1924","Fukuoka","109",null
+"1925","Fukushima","109",null
+"1926","Gifu","109",null
+"1927","Gumma","109",null
+"1928","Hiroshima","109",null
+"1929","Hokkaido","109",null
+"1930","Hyogo","109",null
+"1931","Ibaraki","109",null
+"1932","Ishikawa","109",null
+"1933","Iwate","109",null
+"1934","Kagawa","109",null
+"1935","Kagoshima","109",null
+"1936","Kanagawa","109",null
+"1937","Kanto","109",null
+"1938","Kochi","109",null
+"1939","Kumamoto","109",null
+"1940","Kyoto","109",null
+"1941","Mie","109",null
+"1942","Miyagi","109",null
+"1943","Miyazaki","109",null
+"1944","Nagano","109",null
+"1945","Nagasaki","109",null
+"1946","Nara","109",null
+"1947","Niigata","109",null
+"1948","Oita","109",null
+"1949","Okayama","109",null
+"1950","Okinawa","109",null
+"1951","Osaka","109",null
+"1952","Saga","109",null
+"1953","Saitama","109",null
+"1954","Shiga","109",null
+"1955","Shimane","109",null
+"1956","Shizuoka","109",null
+"1957","Tochigi","109",null
+"1958","Tokushima","109",null
+"1959","Tokyo","109",null
+"1960","Tottori","109",null
+"1961","Toyama","109",null
+"1962","Wakayama","109",null
+"1963","Yamagata","109",null
+"1964","Yamaguchi","109",null
+"1965","Yamanashi","109",null
+"1966","Grouville","110",null
+"1967","Saint Brelade","110",null
+"1968","Saint Clement","110",null
+"1969","Saint Helier","110",null
+"1970","Saint John","110",null
+"1971","Saint Lawrence","110",null
+"1972","Saint Martin","110",null
+"1973","Saint Mary","110",null
+"1974","Saint Peter","110",null
+"1975","Saint Saviour","110",null
+"1976","Trinity","110",null
+"1977","Ajlun","111",null
+"1978","Amman","111",null
+"1979","Irbid","111",null
+"1980","Jarash","111",null
+"1981","Ma  an","111",null
+"1982","Madaba","111",null
+"1983","al-  Aqabah","111",null
+"1984","al-Balqa","111",null
+"1985","al-Karak","111",null
+"1986","al-Mafraq","111",null
+"1987","at-Tafilah","111",null
+"1988","az-Zarqa","111",null
+"1989","Akmecet","112",null
+"1990","Akmola","112",null
+"1991","Aktobe","112",null
+"1992","Almati","112",null
+"1993","Atirau","112",null
+"1994","Batis Kazakstan","112",null
+"1995","Burlinsky Region","112",null
+"1996","Karagandi","112",null
+"1997","Kostanay","112",null
+"1998","Mankistau","112",null
+"1999","Ontustik Kazakstan","112",null
+"2000","Pavlodar","112",null
+"2001","Sigis Kazakstan","112",null
+"2002","Soltustik Kazakstan","112",null
+"2003","Taraz","112",null
+"2004","Central","113",null
+"2005","Coast","113",null
+"2006","Eastern","113",null
+"2007","Nairobi","113",null
+"2008","North Eastern","113",null
+"2009","Nyanza","113",null
+"2010","Rift Valley","113",null
+"2011","Western","113",null
+"2012","Abaiang","114",null
+"2013","Abemana","114",null
+"2014","Aranuka","114",null
+"2015","Arorae","114",null
+"2016","Banaba","114",null
+"2017","Beru","114",null
+"2018","Butaritari","114",null
+"2019","Kiritimati","114",null
+"2020","Kuria","114",null
+"2021","Maiana","114",null
+"2022","Makin","114",null
+"2023","Marakei","114",null
+"2024","Nikunau","114",null
+"2025","Nonouti","114",null
+"2026","Onotoa","114",null
+"2027","Phoenix Islands","114",null
+"2028","Tabiteuea North","114",null
+"2029","Tabiteuea South","114",null
+"2030","Tabuaeran","114",null
+"2031","Tamana","114",null
+"2032","Tarawa North","114",null
+"2033","Tarawa South","114",null
+"2034","Teraina","114",null
+"2035","Chagangdo","115",null
+"2036","Hamgyeongbukto","115",null
+"2037","Hamgyeongnamdo","115",null
+"2038","Hwanghaebukto","115",null
+"2039","Hwanghaenamdo","115",null
+"2040","Kaeseong","115",null
+"2041","Kangweon","115",null
+"2042","Nampo","115",null
+"2043","Pyeonganbukto","115",null
+"2044","Pyeongannamdo","115",null
+"2045","Pyeongyang","115",null
+"2046","Yanggang","115",null
+"2047","Busan","116",null
+"2048","Cheju","116",null
+"2049","Chollabuk","116",null
+"2050","Chollanam","116",null
+"2051","Chungbuk","116",null
+"2052","Chungcheongbuk","116",null
+"2053","Chungcheongnam","116",null
+"2054","Chungnam","116",null
+"2055","Daegu","116",null
+"2056","Gangwon-do","116",null
+"2057","Goyang-si","116",null
+"2058","Gyeonggi-do","116",null
+"2059","Gyeongsang","116",null
+"2060","Gyeongsangnam-do","116",null
+"2061","Incheon","116",null
+"2062","Jeju-Si","116",null
+"2063","Jeonbuk","116",null
+"2064","Kangweon","116",null
+"2065","Kwangju","116",null
+"2066","Kyeonggi","116",null
+"2067","Kyeongsangbuk","116",null
+"2068","Kyeongsangnam","116",null
+"2069","Kyonggi-do","116",null
+"2070","Kyungbuk-Do","116",null
+"2071","Kyunggi-Do","116",null
+"2072","Kyunggi-do","116",null
+"2073","Pusan","116",null
+"2074","Seoul","116",null
+"2075","Sudogwon","116",null
+"2076","Taegu","116",null
+"2077","Taejeon","116",null
+"2078","Taejon-gwangyoksi","116",null
+"2079","Ulsan","116",null
+"2080","Wonju","116",null
+"2081","gwangyoksi","116",null
+"2082","Al Asimah","117",null
+"2083","Hawalli","117",null
+"2084","Mishref","117",null
+"2085","Qadesiya","117",null
+"2086","Safat","117",null
+"2087","Salmiya","117",null
+"2088","al-Ahmadi","117",null
+"2089","al-Farwaniyah","117",null
+"2090","al-Jahra","117",null
+"2091","al-Kuwayt","117",null
+"2092","Batken","118",null
+"2093","Bishkek","118",null
+"2094","Chui","118",null
+"2095","Issyk-Kul","118",null
+"2096","Jalal-Abad","118",null
+"2097","Naryn","118",null
+"2098","Osh","118",null
+"2099","Talas","118",null
+"2100","Attopu","119",null
+"2101","Bokeo","119",null
+"2102","Bolikhamsay","119",null
+"2103","Champasak","119",null
+"2104","Houaphanh","119",null
+"2105","Khammouane","119",null
+"2106","Luang Nam Tha","119",null
+"2107","Luang Prabang","119",null
+"2108","Oudomxay","119",null
+"2109","Phongsaly","119",null
+"2110","Saravan","119",null
+"2111","Savannakhet","119",null
+"2112","Sekong","119",null
+"2113","Viangchan Prefecture","119",null
+"2114","Viangchan Province","119",null
+"2115","Xaignabury","119",null
+"2116","Xiang Khuang","119",null
+"2117","Aizkraukles","120",null
+"2118","Aluksnes","120",null
+"2119","Balvu","120",null
+"2120","Bauskas","120",null
+"2121","Cesu","120",null
+"2122","Daugavpils","120",null
+"2123","Daugavpils City","120",null
+"2124","Dobeles","120",null
+"2125","Gulbenes","120",null
+"2126","Jekabspils","120",null
+"2127","Jelgava","120",null
+"2128","Jelgavas","120",null
+"2129","Jurmala City","120",null
+"2130","Kraslavas","120",null
+"2131","Kuldigas","120",null
+"2132","Liepaja","120",null
+"2133","Liepajas","120",null
+"2134","Limbazhu","120",null
+"2135","Ludzas","120",null
+"2136","Madonas","120",null
+"2137","Ogres","120",null
+"2138","Preilu","120",null
+"2139","Rezekne","120",null
+"2140","Rezeknes","120",null
+"2141","Riga","120",null
+"2142","Rigas","120",null
+"2143","Saldus","120",null
+"2144","Talsu","120",null
+"2145","Tukuma","120",null
+"2146","Valkas","120",null
+"2147","Valmieras","120",null
+"2148","Ventspils","120",null
+"2149","Ventspils City","120",null
+"2150","Beirut","121",null
+"2151","Jabal Lubnan","121",null
+"2152","Mohafazat Liban-Nord","121",null
+"2153","Mohafazat Mont-Liban","121",null
+"2154","Sidon","121",null
+"2155","al-Biqa","121",null
+"2156","al-Janub","121",null
+"2157","an-Nabatiyah","121",null
+"2158","ash-Shamal","121",null
+"2159","Berea","122",null
+"2160","Butha-Buthe","122",null
+"2161","Leribe","122",null
+"2162","Mafeteng","122",null
+"2163","Maseru","122",null
+"2164","Mohale  s Hoek","122",null
+"2165","Mokhotlong","122",null
+"2166","Qacha  s Nek","122",null
+"2167","Quthing","122",null
+"2168","Thaba-Tseka","122",null
+"2169","Bomi","123",null
+"2170","Bong","123",null
+"2171","Grand Bassa","123",null
+"2172","Grand Cape Mount","123",null
+"2173","Grand Gedeh","123",null
+"2174","Loffa","123",null
+"2175","Margibi","123",null
+"2176","Maryland and Grand Kru","123",null
+"2177","Montserrado","123",null
+"2178","Nimba","123",null
+"2179","Rivercess","123",null
+"2180","Sinoe","123",null
+"2181","Ajdabiya","124",null
+"2182","Fezzan","124",null
+"2183","Banghazi","124",null
+"2184","Darnah","124",null
+"2185","Ghadamis","124",null
+"2186","Gharyan","124",null
+"2187","Misratah","124",null
+"2188","Murzuq","124",null
+"2189","Sabha","124",null
+"2190","Sawfajjin","124",null
+"2191","Surt","124",null
+"2192","Tarabulus","124",null
+"2193","Tarhunah","124",null
+"2194","Tripolitania","124",null
+"2195","Tubruq","124",null
+"2196","Yafran","124",null
+"2197","Zlitan","124",null
+"2198","al-  Aziziyah","124",null
+"2199","al-Fatih","124",null
+"2200","al-Jabal al Akhdar","124",null
+"2201","al-Jufrah","124",null
+"2202","al-Khums","124",null
+"2203","al-Kufrah","124",null
+"2204","an-Nuqat al-Khams","124",null
+"2205","ash-Shati","124",null
+"2206","az-Zawiyah","124",null
+"2207","Balzers","125",null
+"2208","Eschen","125",null
+"2209","Gamprin","125",null
+"2210","Mauren","125",null
+"2211","Planken","125",null
+"2212","Ruggell","125",null
+"2213","Schaan","125",null
+"2214","Schellenberg","125",null
+"2215","Triesen","125",null
+"2216","Triesenberg","125",null
+"2217","Vaduz","125",null
+"2218","Alytaus","126",null
+"2219","Anyksciai","126",null
+"2220","Kauno","126",null
+"2221","Klaipedos","126",null
+"2222","Marijampoles","126",null
+"2223","Panevezhio","126",null
+"2224","Panevezys","126",null
+"2225","Shiauliu","126",null
+"2226","Taurages","126",null
+"2227","Telshiu","126",null
+"2228","Telsiai","126",null
+"2229","Utenos","126",null
+"2230","Vilniaus","126",null
+"2231","Capellen","127",null
+"2232","Clervaux","127",null
+"2233","Diekirch","127",null
+"2234","Echternach","127",null
+"2235","Esch-sur-Alzette","127",null
+"2236","Grevenmacher","127",null
+"2237","Luxembourg","127",null
+"2238","Mersch","127",null
+"2239","Redange","127",null
+"2240","Remich","127",null
+"2241","Vianden","127",null
+"2242","Wiltz","127",null
+"2243","Macau","128",null
+"2244","Berovo","129",null
+"2245","Bitola","129",null
+"2246","Brod","129",null
+"2247","Debar","129",null
+"2248","Delchevo","129",null
+"2249","Demir Hisar","129",null
+"2250","Gevgelija","129",null
+"2251","Gostivar","129",null
+"2252","Kavadarci","129",null
+"2253","Kichevo","129",null
+"2254","Kochani","129",null
+"2255","Kratovo","129",null
+"2256","Kriva Palanka","129",null
+"2257","Krushevo","129",null
+"2258","Kumanovo","129",null
+"2259","Negotino","129",null
+"2260","Ohrid","129",null
+"2261","Prilep","129",null
+"2262","Probishtip","129",null
+"2263","Radovish","129",null
+"2264","Resen","129",null
+"2265","Shtip","129",null
+"2266","Skopje","129",null
+"2267","Struga","129",null
+"2268","Strumica","129",null
+"2269","Sveti Nikole","129",null
+"2270","Tetovo","129",null
+"2271","Valandovo","129",null
+"2272","Veles","129",null
+"2273","Vinica","129",null
+"2274","Antananarivo","130",null
+"2275","Antsiranana","130",null
+"2276","Fianarantsoa","130",null
+"2277","Mahajanga","130",null
+"2278","Toamasina","130",null
+"2279","Toliary","130",null
+"2280","Balaka","131",null
+"2281","Blantyre City","131",null
+"2282","Chikwawa","131",null
+"2283","Chiradzulu","131",null
+"2284","Chitipa","131",null
+"2285","Dedza","131",null
+"2286","Dowa","131",null
+"2287","Karonga","131",null
+"2288","Kasungu","131",null
+"2289","Lilongwe City","131",null
+"2290","Machinga","131",null
+"2291","Mangochi","131",null
+"2292","Mchinji","131",null
+"2293","Mulanje","131",null
+"2294","Mwanza","131",null
+"2295","Mzimba","131",null
+"2296","Mzuzu City","131",null
+"2297","Nkhata Bay","131",null
+"2298","Nkhotakota","131",null
+"2299","Nsanje","131",null
+"2300","Ntcheu","131",null
+"2301","Ntchisi","131",null
+"2302","Phalombe","131",null
+"2303","Rumphi","131",null
+"2304","Salima","131",null
+"2305","Thyolo","131",null
+"2306","Zomba Municipality","131",null
+"2307","Johor","132",null
+"2308","Kedah","132",null
+"2309","Kelantan","132",null
+"2310","Kuala Lumpur","132",null
+"2311","Labuan","132",null
+"2312","Melaka","132",null
+"2313","Negeri Johor","132",null
+"2314","Negeri Sembilan","132",null
+"2315","Pahang","132",null
+"2316","Penang","132",null
+"2317","Perak","132",null
+"2318","Perlis","132",null
+"2319","Pulau Pinang","132",null
+"2320","Sabah","132",null
+"2321","Sarawak","132",null
+"2322","Selangor","132",null
+"2323","Sembilan","132",null
+"2324","Terengganu","132",null
+"2325","Alif Alif","133",null
+"2326","Alif Dhaal","133",null
+"2327","Baa","133",null
+"2328","Dhaal","133",null
+"2329","Faaf","133",null
+"2330","Gaaf Alif","133",null
+"2331","Gaaf Dhaal","133",null
+"2332","Ghaviyani","133",null
+"2333","Haa Alif","133",null
+"2334","Haa Dhaal","133",null
+"2335","Kaaf","133",null
+"2336","Laam","133",null
+"2337","Lhaviyani","133",null
+"2338","Male","133",null
+"2339","Miim","133",null
+"2340","Nuun","133",null
+"2341","Raa","133",null
+"2342","Shaviyani","133",null
+"2343","Siin","133",null
+"2344","Thaa","133",null
+"2345","Vaav","133",null
+"2346","Bamako","134",null
+"2347","Gao","134",null
+"2348","Kayes","134",null
+"2349","Kidal","134",null
+"2350","Koulikoro","134",null
+"2351","Mopti","134",null
+"2352","Segou","134",null
+"2353","Sikasso","134",null
+"2354","Tombouctou","134",null
+"2355","Gozo and Comino","135",null
+"2356","Inner Harbour","135",null
+"2357","Northern","135",null
+"2358","Outer Harbour","135",null
+"2359","South Eastern","135",null
+"2360","Valletta","135",null
+"2361","Western","135",null
+"2362","Castletown","136",null
+"2363","Douglas","136",null
+"2364","Laxey","136",null
+"2365","Onchan","136",null
+"2366","Peel","136",null
+"2367","Port Erin","136",null
+"2368","Port Saint Mary","136",null
+"2369","Ramsey","136",null
+"2370","Ailinlaplap","137",null
+"2371","Ailuk","137",null
+"2372","Arno","137",null
+"2373","Aur","137",null
+"2374","Bikini","137",null
+"2375","Ebon","137",null
+"2376","Enewetak","137",null
+"2377","Jabat","137",null
+"2378","Jaluit","137",null
+"2379","Kili","137",null
+"2380","Kwajalein","137",null
+"2381","Lae","137",null
+"2382","Lib","137",null
+"2383","Likiep","137",null
+"2384","Majuro","137",null
+"2385","Maloelap","137",null
+"2386","Mejit","137",null
+"2387","Mili","137",null
+"2388","Namorik","137",null
+"2389","Namu","137",null
+"2390","Rongelap","137",null
+"2391","Ujae","137",null
+"2392","Utrik","137",null
+"2393","Wotho","137",null
+"2394","Wotje","137",null
+"2395","Fort-de-France","138",null
+"2396","La Trinite","138",null
+"2397","Le Marin","138",null
+"2398","Saint-Pierre","138",null
+"2399","Adrar","139",null
+"2400","Assaba","139",null
+"2401","Brakna","139",null
+"2402","Dhakhlat Nawadibu","139",null
+"2403","Hudh-al-Gharbi","139",null
+"2404","Hudh-ash-Sharqi","139",null
+"2405","Inshiri","139",null
+"2406","Nawakshut","139",null
+"2407","Qidimagha","139",null
+"2408","Qurqul","139",null
+"2409","Taqant","139",null
+"2410","Tiris Zammur","139",null
+"2411","Trarza","139",null
+"2412","Black River","140",null
+"2413","Eau Coulee","140",null
+"2414","Flacq","140",null
+"2415","Floreal","140",null
+"2416","Grand Port","140",null
+"2417","Moka","140",null
+"2418","Pamplempousses","140",null
+"2419","Plaines Wilhelm","140",null
+"2420","Port Louis","140",null
+"2421","Riviere du Rempart","140",null
+"2422","Rodrigues","140",null
+"2423","Rose Hill","140",null
+"2424","Savanne","140",null
+"2425","Mayotte","141",null
+"2426","Pamanzi","141",null
+"2427","Aguascalientes","142",null
+"2428","Baja California","142",null
+"2429","Baja California Sur","142",null
+"2430","Campeche","142",null
+"2431","Chiapas","142",null
+"2432","Chihuahua","142",null
+"2433","Coahuila","142",null
+"2434","Colima","142",null
+"2435","Distrito Federal","142",null
+"2436","Durango","142",null
+"2437","Estado de Mexico","142",null
+"2438","Guanajuato","142",null
+"2439","Guerrero","142",null
+"2440","Hidalgo","142",null
+"2441","Jalisco","142",null
+"2442","Mexico","142",null
+"2443","Michoacan","142",null
+"2444","Morelos","142",null
+"2445","Nayarit","142",null
+"2446","Nuevo Leon","142",null
+"2447","Oaxaca","142",null
+"2448","Puebla","142",null
+"2449","Queretaro","142",null
+"2450","Quintana Roo","142",null
+"2451","San Luis Potosi","142",null
+"2452","Sinaloa","142",null
+"2453","Sonora","142",null
+"2454","Tabasco","142",null
+"2455","Tamaulipas","142",null
+"2456","Tlaxcala","142",null
+"2457","Veracruz","142",null
+"2458","Yucatan","142",null
+"2459","Zacatecas","142",null
+"2460","Chuuk","143",null
+"2461","Kusaie","143",null
+"2462","Pohnpei","143",null
+"2463","Yap","143",null
+"2464","Balti","144",null
+"2465","Cahul","144",null
+"2466","Chisinau","144",null
+"2467","Chisinau Oras","144",null
+"2468","Edinet","144",null
+"2469","Gagauzia","144",null
+"2470","Lapusna","144",null
+"2471","Orhei","144",null
+"2472","Soroca","144",null
+"2473","Taraclia","144",null
+"2474","Tighina","144",null
+"2475","Transnistria","144",null
+"2476","Ungheni","144",null
+"2477","Fontvieille","145",null
+"2478","La Condamine","145",null
+"2479","Monaco-Ville","145",null
+"2480","Monte Carlo","145",null
+"2481","Arhangaj","146",null
+"2482","Bajan-Olgij","146",null
+"2483","Bajanhongor","146",null
+"2484","Bulgan","146",null
+"2485","Darhan-Uul","146",null
+"2486","Dornod","146",null
+"2487","Dornogovi","146",null
+"2488","Dundgovi","146",null
+"2489","Govi-Altaj","146",null
+"2490","Govisumber","146",null
+"2491","Hentij","146",null
+"2492","Hovd","146",null
+"2493","Hovsgol","146",null
+"2494","Omnogovi","146",null
+"2495","Orhon","146",null
+"2496","Ovorhangaj","146",null
+"2497","Selenge","146",null
+"2498","Suhbaatar","146",null
+"2499","Tov","146",null
+"2500","Ulaanbaatar","146",null
+"2501","Uvs","146",null
+"2502","Zavhan","146",null
+"2503","Montserrat","147",null
+"2504","Agadir","148",null
+"2505","Casablanca","148",null
+"2506","Chaouia-Ouardigha","148",null
+"2507","Doukkala-Abda","148",null
+"2508","Fes-Boulemane","148",null
+"2509","Gharb-Chrarda-Beni Hssen","148",null
+"2510","Guelmim","148",null
+"2511","Kenitra","148",null
+"2512","Marrakech-Tensift-Al Haouz","148",null
+"2513","Meknes-Tafilalet","148",null
+"2514","Oriental","148",null
+"2515","Oujda","148",null
+"2516","Province de Tanger","148",null
+"2517","Rabat-Sale-Zammour-Zaer","148",null
+"2518","Sala Al Jadida","148",null
+"2519","Settat","148",null
+"2520","Souss Massa-Draa","148",null
+"2521","Tadla-Azilal","148",null
+"2522","Tangier-Tetouan","148",null
+"2523","Taza-Al Hoceima-Taounate","148",null
+"2524","Wilaya de Casablanca","148",null
+"2525","Wilaya de Rabat-Sale","148",null
+"2526","Cabo Delgado","149",null
+"2527","Gaza","149",null
+"2528","Inhambane","149",null
+"2529","Manica","149",null
+"2530","Maputo","149",null
+"2531","Maputo Provincia","149",null
+"2532","Nampula","149",null
+"2533","Niassa","149",null
+"2534","Sofala","149",null
+"2535","Tete","149",null
+"2536","Zambezia","149",null
+"2537","Ayeyarwady","150",null
+"2538","Bago","150",null
+"2539","Chin","150",null
+"2540","Kachin","150",null
+"2541","Kayah","150",null
+"2542","Kayin","150",null
+"2543","Magway","150",null
+"2544","Mandalay","150",null
+"2545","Mon","150",null
+"2546","Nay Pyi Taw","150",null
+"2547","Rakhine","150",null
+"2548","Sagaing","150",null
+"2549","Shan","150",null
+"2550","Tanintharyi","150",null
+"2551","Yangon","150",null
+"2552","Caprivi","151",null
+"2553","Erongo","151",null
+"2554","Hardap","151",null
+"2555","Karas","151",null
+"2556","Kavango","151",null
+"2557","Khomas","151",null
+"2558","Kunene","151",null
+"2559","Ohangwena","151",null
+"2560","Omaheke","151",null
+"2561","Omusati","151",null
+"2562","Oshana","151",null
+"2563","Oshikoto","151",null
+"2564","Otjozondjupa","151",null
+"2565","Yaren","152",null
+"2566","Bagmati","153",null
+"2567","Bheri","153",null
+"2568","Dhawalagiri","153",null
+"2569","Gandaki","153",null
+"2570","Janakpur","153",null
+"2571","Karnali","153",null
+"2572","Koshi","153",null
+"2573","Lumbini","153",null
+"2574","Mahakali","153",null
+"2575","Mechi","153",null
+"2576","Narayani","153",null
+"2577","Rapti","153",null
+"2578","Sagarmatha","153",null
+"2579","Seti","153",null
+"2580","Bonaire","154",null
+"2581","Curacao","154",null
+"2582","Saba","154",null
+"2583","Sint Eustatius","154",null
+"2584","Sint Maarten","154",null
+"2585","Amsterdam","155",null
+"2586","Benelux","155",null
+"2587","Drenthe","155",null
+"2588","Flevoland","155",null
+"2589","Friesland","155",null
+"2590","Gelderland","155",null
+"2591","Groningen","155",null
+"2592","Limburg","155",null
+"2593","Noord-Brabant","155",null
+"2594","Noord-Holland","155",null
+"2595","Overijssel","155",null
+"2596","South Holland","155",null
+"2597","Utrecht","155",null
+"2598","Zeeland","155",null
+"2599","Zuid-Holland","155",null
+"2600","Iles","156",null
+"2601","Nord","156",null
+"2602","Sud","156",null
+"2603","Area Outside Region","157",null
+"2604","Auckland","157",null
+"2605","Bay of Plenty","157",null
+"2606","Canterbury","157",null
+"2607","Christchurch","157",null
+"2608","Gisborne","157",null
+"2609","Hawke  s Bay","157",null
+"2610","Manawatu-Wanganui","157",null
+"2611","Marlborough","157",null
+"2612","Nelson","157",null
+"2613","Northland","157",null
+"2614","Otago","157",null
+"2615","Rodney","157",null
+"2616","Southland","157",null
+"2617","Taranaki","157",null
+"2618","Tasman","157",null
+"2619","Waikato","157",null
+"2620","Wellington","157",null
+"2621","West Coast","157",null
+"2622","Atlantico Norte","158",null
+"2623","Atlantico Sur","158",null
+"2624","Boaco","158",null
+"2625","Carazo","158",null
+"2626","Chinandega","158",null
+"2627","Chontales","158",null
+"2628","Esteli","158",null
+"2629","Granada","158",null
+"2630","Jinotega","158",null
+"2631","Leon","158",null
+"2632","Madriz","158",null
+"2633","Managua","158",null
+"2634","Masaya","158",null
+"2635","Matagalpa","158",null
+"2636","Nueva Segovia","158",null
+"2637","Rio San Juan","158",null
+"2638","Rivas","158",null
+"2639","Agadez","159",null
+"2640","Diffa","159",null
+"2641","Dosso","159",null
+"2642","Maradi","159",null
+"2643","Niamey","159",null
+"2644","Tahoua","159",null
+"2645","Tillabery","159",null
+"2646","Zinder","159",null
+"2647","Abia","160",null
+"2648","Abuja Federal Capital Territor","160",null
+"2649","Adamawa","160",null
+"2650","Akwa Ibom","160",null
+"2651","Anambra","160",null
+"2652","Bauchi","160",null
+"2653","Bayelsa","160",null
+"2654","Benue","160",null
+"2655","Borno","160",null
+"2656","Cross River","160",null
+"2657","Delta","160",null
+"2658","Ebonyi","160",null
+"2659","Edo","160",null
+"2660","Ekiti","160",null
+"2661","Enugu","160",null
+"2662","Gombe","160",null
+"2663","Imo","160",null
+"2664","Jigawa","160",null
+"2665","Kaduna","160",null
+"2666","Kano","160",null
+"2667","Katsina","160",null
+"2668","Kebbi","160",null
+"2669","Kogi","160",null
+"2670","Kwara","160",null
+"2671","Lagos","160",null
+"2672","Nassarawa","160",null
+"2673","Niger","160",null
+"2674","Ogun","160",null
+"2675","Ondo","160",null
+"2676","Osun","160",null
+"2677","Oyo","160",null
+"2678","Plateau","160",null
+"2679","Rivers","160",null
+"2680","Sokoto","160",null
+"2681","Taraba","160",null
+"2682","Yobe","160",null
+"2683","Zamfara","160",null
+"2684","Niue","161",null
+"2685","Norfolk Island","162",null
+"2686","Northern Islands","163",null
+"2687","Rota","163",null
+"2688","Saipan","163",null
+"2689","Tinian","163",null
+"2690","Akershus","164",null
+"2691","Aust Agder","164",null
+"2692","Bergen","164",null
+"2693","Buskerud","164",null
+"2694","Finnmark","164",null
+"2695","Hedmark","164",null
+"2696","Hordaland","164",null
+"2697","Moere og Romsdal","164",null
+"2698","Nord Trondelag","164",null
+"2699","Nordland","164",null
+"2700","Oestfold","164",null
+"2701","Oppland","164",null
+"2702","Oslo","164",null
+"2703","Rogaland","164",null
+"2704","Soer Troendelag","164",null
+"2705","Sogn og Fjordane","164",null
+"2706","Stavern","164",null
+"2707","Sykkylven","164",null
+"2708","Telemark","164",null
+"2709","Troms","164",null
+"2710","Vest Agder","164",null
+"2711","Vestfold","164",null
+"2712","ÃƒÂ˜stfold","164",null
+"2713","Al Buraimi","165",null
+"2714","Dhufar","165",null
+"2715","Masqat","165",null
+"2716","Musandam","165",null
+"2717","Rusayl","165",null
+"2718","Wadi Kabir","165",null
+"2719","ad-Dakhiliyah","165",null
+"2720","adh-Dhahirah","165",null
+"2721","al-Batinah","165",null
+"2722","ash-Sharqiyah","165",null
+"2723","Baluchistan","166",null
+"2724","Federal Capital Area","166",null
+"2725","Federally administered Tribal","166",null
+"2726","North-West Frontier","166",null
+"2727","Northern Areas","166",null
+"2728","Punjab","166",null
+"2729","Sind","166",null
+"2730","Aimeliik","167",null
+"2731","Airai","167",null
+"2732","Angaur","167",null
+"2733","Hatobohei","167",null
+"2734","Kayangel","167",null
+"2735","Koror","167",null
+"2736","Melekeok","167",null
+"2737","Ngaraard","167",null
+"2738","Ngardmau","167",null
+"2739","Ngaremlengui","167",null
+"2740","Ngatpang","167",null
+"2741","Ngchesar","167",null
+"2742","Ngerchelong","167",null
+"2743","Ngiwal","167",null
+"2744","Peleliu","167",null
+"2745","Sonsorol","167",null
+"2746","Ariha","168",null
+"2747","Bayt Lahm","168",null
+"2748","Bethlehem","168",null
+"2749","Dayr-al-Balah","168",null
+"2750","Ghazzah","168",null
+"2751","Ghazzah ash-Shamaliyah","168",null
+"2752","Janin","168",null
+"2753","Khan Yunis","168",null
+"2754","Nabulus","168",null
+"2755","Qalqilyah","168",null
+"2756","Rafah","168",null
+"2757","Ram Allah wal-Birah","168",null
+"2758","Salfit","168",null
+"2759","Tubas","168",null
+"2760","Tulkarm","168",null
+"2761","al-Khalil","168",null
+"2762","al-Quds","168",null
+"2763","Bocas del Toro","169",null
+"2764","Chiriqui","169",null
+"2765","Cocle","169",null
+"2766","Colon","169",null
+"2767","Darien","169",null
+"2768","Embera","169",null
+"2769","Herrera","169",null
+"2770","Kuna Yala","169",null
+"2771","Los Santos","169",null
+"2772","Ngobe Bugle","169",null
+"2773","Panama","169",null
+"2774","Veraguas","169",null
+"2775","East New Britain","170",null
+"2776","East Sepik","170",null
+"2777","Eastern Highlands","170",null
+"2778","Enga","170",null
+"2779","Fly River","170",null
+"2780","Gulf","170",null
+"2781","Madang","170",null
+"2782","Manus","170",null
+"2783","Milne Bay","170",null
+"2784","Morobe","170",null
+"2785","National Capital District","170",null
+"2786","New Ireland","170",null
+"2787","North Solomons","170",null
+"2788","Oro","170",null
+"2789","Sandaun","170",null
+"2790","Simbu","170",null
+"2791","Southern Highlands","170",null
+"2792","West New Britain","170",null
+"2793","Western Highlands","170",null
+"2794","Alto Paraguay","171",null
+"2795","Alto Parana","171",null
+"2796","Amambay","171",null
+"2797","Asuncion","171",null
+"2798","Boqueron","171",null
+"2799","Caaguazu","171",null
+"2800","Caazapa","171",null
+"2801","Canendiyu","171",null
+"2802","Central","171",null
+"2803","Concepcion","171",null
+"2804","Cordillera","171",null
+"2805","Guaira","171",null
+"2806","Itapua","171",null
+"2807","Misiones","171",null
+"2808","Neembucu","171",null
+"2809","Paraguari","171",null
+"2810","Presidente Hayes","171",null
+"2811","San Pedro","171",null
+"2812","Amazonas","172",null
+"2813","Ancash","172",null
+"2814","Apurimac","172",null
+"2815","Arequipa","172",null
+"2816","Ayacucho","172",null
+"2817","Cajamarca","172",null
+"2818","Cusco","172",null
+"2819","Huancavelica","172",null
+"2820","Huanuco","172",null
+"2821","Ica","172",null
+"2822","Junin","172",null
+"2823","La Libertad","172",null
+"2824","Lambayeque","172",null
+"2825","Lima y Callao","172",null
+"2826","Loreto","172",null
+"2827","Madre de Dios","172",null
+"2828","Moquegua","172",null
+"2829","Pasco","172",null
+"2830","Piura","172",null
+"2831","Puno","172",null
+"2832","San Martin","172",null
+"2833","Tacna","172",null
+"2834","Tumbes","172",null
+"2835","Ucayali","172",null
+"2836","Batangas","173",null
+"2837","Bicol","173",null
+"2838","Bulacan","173",null
+"2839","Cagayan","173",null
+"2840","Caraga","173",null
+"2841","Central Luzon","173",null
+"2842","Central Mindanao","173",null
+"2843","Central Visayas","173",null
+"2844","Cordillera","173",null
+"2845","Davao","173",null
+"2846","Eastern Visayas","173",null
+"2847","Greater Metropolitan Area","173",null
+"2848","Ilocos","173",null
+"2849","Laguna","173",null
+"2850","Luzon","173",null
+"2851","Mactan","173",null
+"2852","Metropolitan Manila Area","173",null
+"2853","Muslim Mindanao","173",null
+"2854","Northern Mindanao","173",null
+"2855","Southern Mindanao","173",null
+"2856","Southern Tagalog","173",null
+"2857","Western Mindanao","173",null
+"2858","Western Visayas","173",null
+"2859","Pitcairn Island","174",null
+"2860","Biale Blota","175",null
+"2861","Dobroszyce","175",null
+"2862","Dolnoslaskie","175",null
+"2863","Dziekanow Lesny","175",null
+"2864","Hopowo","175",null
+"2865","Kartuzy","175",null
+"2866","Koscian","175",null
+"2867","Krakow","175",null
+"2868","Kujawsko-Pomorskie","175",null
+"2869","Lodzkie","175",null
+"2870","Lubelskie","175",null
+"2871","Lubuskie","175",null
+"2872","Malomice","175",null
+"2873","Malopolskie","175",null
+"2874","Mazowieckie","175",null
+"2875","Mirkow","175",null
+"2876","Opolskie","175",null
+"2877","Ostrowiec","175",null
+"2878","Podkarpackie","175",null
+"2879","Podlaskie","175",null
+"2880","Polska","175",null
+"2881","Pomorskie","175",null
+"2882","Poznan","175",null
+"2883","Pruszkow","175",null
+"2884","Rymanowska","175",null
+"2885","Rzeszow","175",null
+"2886","Slaskie","175",null
+"2887","Stare Pole","175",null
+"2888","Swietokrzyskie","175",null
+"2889","Warminsko-Mazurskie","175",null
+"2890","Warsaw","175",null
+"2891","Wejherowo","175",null
+"2892","Wielkopolskie","175",null
+"2893","Wroclaw","175",null
+"2894","Zachodnio-Pomorskie","175",null
+"2895","Zukowo","175",null
+"2896","Abrantes","176",null
+"2897","Acores","176",null
+"2898","Alentejo","176",null
+"2899","Algarve","176",null
+"2900","Braga","176",null
+"2901","Centro","176",null
+"2902","Distrito de Leiria","176",null
+"2903","Distrito de Viana do Castelo","176",null
+"2904","Distrito de Vila Real","176",null
+"2905","Distrito do Porto","176",null
+"2906","Lisboa e Vale do Tejo","176",null
+"2907","Madeira","176",null
+"2908","Norte","176",null
+"2909","Paivas","176",null
+"2910","Arecibo","177",null
+"2911","Bayamon","177",null
+"2912","Carolina","177",null
+"2913","Florida","177",null
+"2914","Guayama","177",null
+"2915","Humacao","177",null
+"2916","Mayaguez-Aguadilla","177",null
+"2917","Ponce","177",null
+"2918","Salinas","177",null
+"2919","San Juan","177",null
+"2920","Doha","178",null
+"2921","Jarian-al-Batnah","178",null
+"2922","Umm Salal","178",null
+"2923","ad-Dawhah","178",null
+"2924","al-Ghuwayriyah","178",null
+"2925","al-Jumayliyah","178",null
+"2926","al-Khawr","178",null
+"2927","al-Wakrah","178",null
+"2928","ar-Rayyan","178",null
+"2929","ash-Shamal","178",null
+"2930","Saint-Benoit","179",null
+"2931","Saint-Denis","179",null
+"2932","Saint-Paul","179",null
+"2933","Saint-Pierre","179",null
+"2934","Alba","180",null
+"2935","Arad","180",null
+"2936","Arges","180",null
+"2937","Bacau","180",null
+"2938","Bihor","180",null
+"2939","Bistrita-Nasaud","180",null
+"2940","Botosani","180",null
+"2941","Braila","180",null
+"2942","Brasov","180",null
+"2943","Bucuresti","180",null
+"2944","Buzau","180",null
+"2945","Calarasi","180",null
+"2946","Caras-Severin","180",null
+"2947","Cluj","180",null
+"2948","Constanta","180",null
+"2949","Covasna","180",null
+"2950","Dambovita","180",null
+"2951","Dolj","180",null
+"2952","Galati","180",null
+"2953","Giurgiu","180",null
+"2954","Gorj","180",null
+"2955","Harghita","180",null
+"2956","Hunedoara","180",null
+"2957","Ialomita","180",null
+"2958","Iasi","180",null
+"2959","Ilfov","180",null
+"2960","Maramures","180",null
+"2961","Mehedinti","180",null
+"2962","Mures","180",null
+"2963","Neamt","180",null
+"2964","Olt","180",null
+"2965","Prahova","180",null
+"2966","Salaj","180",null
+"2967","Satu Mare","180",null
+"2968","Sibiu","180",null
+"2969","Sondelor","180",null
+"2970","Suceava","180",null
+"2971","Teleorman","180",null
+"2972","Timis","180",null
+"2973","Tulcea","180",null
+"2974","Valcea","180",null
+"2975","Vaslui","180",null
+"2976","Vrancea","180",null
+"2977","Adygeja","181",null
+"2978","Aga","181",null
+"2979","Alanija","181",null
+"2980","Altaj","181",null
+"2981","Amur","181",null
+"2982","Arhangelsk","181",null
+"2983","Astrahan","181",null
+"2984","Bashkortostan","181",null
+"2985","Belgorod","181",null
+"2986","Brjansk","181",null
+"2987","Burjatija","181",null
+"2988","Chechenija","181",null
+"2989","Cheljabinsk","181",null
+"2990","Chita","181",null
+"2991","Chukotka","181",null
+"2992","Chuvashija","181",null
+"2993","Dagestan","181",null
+"2994","Evenkija","181",null
+"2995","Gorno-Altaj","181",null
+"2996","Habarovsk","181",null
+"2997","Hakasija","181",null
+"2998","Hanty-Mansija","181",null
+"2999","Ingusetija","181",null
+"3000","Irkutsk","181",null
+"3001","Ivanovo","181",null
+"3002","Jamalo-Nenets","181",null
+"3003","Jaroslavl","181",null
+"3004","Jevrej","181",null
+"3005","Kabardino-Balkarija","181",null
+"3006","Kaliningrad","181",null
+"3007","Kalmykija","181",null
+"3008","Kaluga","181",null
+"3009","Kamchatka","181",null
+"3010","Karachaj-Cherkessija","181",null
+"3011","Karelija","181",null
+"3012","Kemerovo","181",null
+"3013","Khabarovskiy Kray","181",null
+"3014","Kirov","181",null
+"3015","Komi","181",null
+"3016","Komi-Permjakija","181",null
+"3017","Korjakija","181",null
+"3018","Kostroma","181",null
+"3019","Krasnodar","181",null
+"3020","Krasnojarsk","181",null
+"3021","Krasnoyarskiy Kray","181",null
+"3022","Kurgan","181",null
+"3023","Kursk","181",null
+"3024","Leningrad","181",null
+"3025","Lipeck","181",null
+"3026","Magadan","181",null
+"3027","Marij El","181",null
+"3028","Mordovija","181",null
+"3029","Moscow","181",null
+"3030","Moskovskaja Oblast","181",null
+"3031","Moskovskaya Oblast","181",null
+"3032","Moskva","181",null
+"3033","Murmansk","181",null
+"3034","Nenets","181",null
+"3035","Nizhnij Novgorod","181",null
+"3036","Novgorod","181",null
+"3037","Novokusnezk","181",null
+"3038","Novosibirsk","181",null
+"3039","Omsk","181",null
+"3040","Orenburg","181",null
+"3041","Orjol","181",null
+"3042","Penza","181",null
+"3043","Perm","181",null
+"3044","Primorje","181",null
+"3045","Pskov","181",null
+"3046","Pskovskaya Oblast","181",null
+"3047","Rjazan","181",null
+"3048","Rostov","181",null
+"3049","Saha","181",null
+"3050","Sahalin","181",null
+"3051","Samara","181",null
+"3052","Samarskaya","181",null
+"3053","Sankt-Peterburg","181",null
+"3054","Saratov","181",null
+"3055","Smolensk","181",null
+"3056","Stavropol","181",null
+"3057","Sverdlovsk","181",null
+"3058","Tajmyrija","181",null
+"3059","Tambov","181",null
+"3060","Tatarstan","181",null
+"3061","Tjumen","181",null
+"3062","Tomsk","181",null
+"3063","Tula","181",null
+"3064","Tver","181",null
+"3065","Tyva","181",null
+"3066","Udmurtija","181",null
+"3067","Uljanovsk","181",null
+"3068","Ulyanovskaya Oblast","181",null
+"3069","Ust-Orda","181",null
+"3070","Vladimir","181",null
+"3071","Volgograd","181",null
+"3072","Vologda","181",null
+"3073","Voronezh","181",null
+"3074","Butare","182",null
+"3075","Byumba","182",null
+"3076","Cyangugu","182",null
+"3077","Gikongoro","182",null
+"3078","Gisenyi","182",null
+"3079","Gitarama","182",null
+"3080","Kibungo","182",null
+"3081","Kibuye","182",null
+"3082","Kigali-ngali","182",null
+"3083","Ruhengeri","182",null
+"3084","Ascension","183",null
+"3085","Gough Island","183",null
+"3086","Saint Helena","183",null
+"3087","Tristan da Cunha","183",null
+"3088","Christ Church Nichola Town","184",null
+"3089","Saint Anne Sandy Point","184",null
+"3090","Saint George Basseterre","184",null
+"3091","Saint George Gingerland","184",null
+"3092","Saint James Windward","184",null
+"3093","Saint John Capesterre","184",null
+"3094","Saint John Figtree","184",null
+"3095","Saint Mary Cayon","184",null
+"3096","Saint Paul Capesterre","184",null
+"3097","Saint Paul Charlestown","184",null
+"3098","Saint Peter Basseterre","184",null
+"3099","Saint Thomas Lowland","184",null
+"3100","Saint Thomas Middle Island","184",null
+"3101","Trinity Palmetto Point","184",null
+"3102","Anse-la-Raye","185",null
+"3103","Canaries","185",null
+"3104","Castries","185",null
+"3105","Choiseul","185",null
+"3106","Dennery","185",null
+"3107","Gros Inlet","185",null
+"3108","Laborie","185",null
+"3109","Micoud","185",null
+"3110","Soufriere","185",null
+"3111","Vieux Fort","185",null
+"3112","Miquelon-Langlade","186",null
+"3113","Saint-Pierre","186",null
+"3114","Charlotte","187",null
+"3115","Grenadines","187",null
+"3116","Saint Andrew","187",null
+"3117","Saint David","187",null
+"3118","Saint George","187",null
+"3119","Saint Patrick","187",null
+"3120","A  ana","188",null
+"3121","Aiga-i-le-Tai","188",null
+"3122","Atua","188",null
+"3123","Fa  asaleleaga","188",null
+"3124","Gaga  emauga","188",null
+"3125","Gagaifomauga","188",null
+"3126","Palauli","188",null
+"3127","Satupa  itea","188",null
+"3128","Tuamasaga","188",null
+"3129","Va  a-o-Fonoti","188",null
+"3130","Vaisigano","188",null
+"3131","Acquaviva","189",null
+"3132","Borgo Maggiore","189",null
+"3133","Chiesanuova","189",null
+"3134","Domagnano","189",null
+"3135","Faetano","189",null
+"3136","Fiorentino","189",null
+"3137","Montegiardino","189",null
+"3138","San Marino","189",null
+"3139","Serravalle","189",null
+"3140","Agua Grande","190",null
+"3141","Cantagalo","190",null
+"3142","Lemba","190",null
+"3143","Lobata","190",null
+"3144","Me-Zochi","190",null
+"3145","Pague","190",null
+"3146","Al Khobar","191",null
+"3147","Aseer","191",null
+"3148","Ash Sharqiyah","191",null
+"3149","Asir","191",null
+"3150","Central Province","191",null
+"3151","Eastern Province","191",null
+"3152","Ha  il","191",null
+"3153","Jawf","191",null
+"3154","Jizan","191",null
+"3155","Makkah","191",null
+"3156","Najran","191",null
+"3157","Qasim","191",null
+"3158","Tabuk","191",null
+"3159","Western Province","191",null
+"3160","al-Bahah","191",null
+"3161","al-Hudud-ash-Shamaliyah","191",null
+"3162","al-Madinah","191",null
+"3163","ar-Riyad","191",null
+"3164","Dakar","192",null
+"3165","Diourbel","192",null
+"3166","Fatick","192",null
+"3167","Kaolack","192",null
+"3168","Kolda","192",null
+"3169","Louga","192",null
+"3170","Saint-Louis","192",null
+"3171","Tambacounda","192",null
+"3172","Thies","192",null
+"3173","Ziguinchor","192",null
+"3174","Central Serbia","193",null
+"3175","Kosovo and Metohija","193",null
+"3176","Vojvodina","193",null
+"3177","Anse Boileau","194",null
+"3178","Anse Royale","194",null
+"3179","Cascade","194",null
+"3180","Takamaka","194",null
+"3181","Victoria","194",null
+"3182","Eastern","195",null
+"3183","Northern","195",null
+"3184","Southern","195",null
+"3185","Western","195",null
+"3186","Singapore","196",null
+"3187","Banskobystricky","197",null
+"3188","Bratislavsky","197",null
+"3189","Kosicky","197",null
+"3190","Nitriansky","197",null
+"3191","Presovsky","197",null
+"3192","Trenciansky","197",null
+"3193","Trnavsky","197",null
+"3194","Zilinsky","197",null
+"3195","Benedikt","198",null
+"3196","Gorenjska","198",null
+"3197","Gorishka","198",null
+"3198","Jugovzhodna Slovenija","198",null
+"3199","Koroshka","198",null
+"3200","Notranjsko-krashka","198",null
+"3201","Obalno-krashka","198",null
+"3202","Obcina Domzale","198",null
+"3203","Obcina Vitanje","198",null
+"3204","Osrednjeslovenska","198",null
+"3205","Podravska","198",null
+"3206","Pomurska","198",null
+"3207","Savinjska","198",null
+"3208","Slovenian Littoral","198",null
+"3209","Spodnjeposavska","198",null
+"3210","Zasavska","198",null
+"3211","Pitcairn","199",null
+"3212","Central","200",null
+"3213","Choiseul","200",null
+"3214","Guadalcanal","200",null
+"3215","Isabel","200",null
+"3216","Makira and Ulawa","200",null
+"3217","Malaita","200",null
+"3218","Rennell and Bellona","200",null
+"3219","Temotu","200",null
+"3220","Western","200",null
+"3221","Awdal","201",null
+"3222","Bakol","201",null
+"3223","Banadir","201",null
+"3224","Bari","201",null
+"3225","Bay","201",null
+"3226","Galgudug","201",null
+"3227","Gedo","201",null
+"3228","Hiran","201",null
+"3229","Jubbada Hose","201",null
+"3230","Jubbadha Dexe","201",null
+"3231","Mudug","201",null
+"3232","Nugal","201",null
+"3233","Sanag","201",null
+"3234","Shabellaha Dhexe","201",null
+"3235","Shabellaha Hose","201",null
+"3236","Togdher","201",null
+"3237","Woqoyi Galbed","201",null
+"3238","Eastern Cape","202",null
+"3239","Free State","202",null
+"3240","Gauteng","202",null
+"3241","Kempton Park","202",null
+"3242","Kramerville","202",null
+"3243","KwaZulu Natal","202",null
+"3244","Limpopo","202",null
+"3245","Mpumalanga","202",null
+"3246","North West","202",null
+"3247","Northern Cape","202",null
+"3248","Parow","202",null
+"3249","Table View","202",null
+"3250","Umtentweni","202",null
+"3251","Western Cape","202",null
+"3252","South Georgia","203",null
+"3253","Central Equatoria","204",null
+"3254","A Coruna","205",null
+"3255","Alacant","205",null
+"3256","Alava","205",null
+"3257","Albacete","205",null
+"3258","Almeria","205",null
+"3259","Andalucia","205",null
+"3260","Asturias","205",null
+"3261","Avila","205",null
+"3262","Badajoz","205",null
+"3263","Balears","205",null
+"3264","Barcelona","205",null
+"3265","Bertamirans","205",null
+"3266","Biscay","205",null
+"3267","Burgos","205",null
+"3268","Caceres","205",null
+"3269","Cadiz","205",null
+"3270","Cantabria","205",null
+"3271","Castello","205",null
+"3272","Catalunya","205",null
+"3273","Ceuta","205",null
+"3274","Ciudad Real","205",null
+"3275","Comunidad Autonoma de Canarias","205",null
+"3276","Comunidad Autonoma de Cataluna","205",null
+"3277","Comunidad Autonoma de Galicia","205",null
+"3278","Comunidad Autonoma de las Isla","205",null
+"3279","Comunidad Autonoma del Princip","205",null
+"3280","Comunidad Valenciana","205",null
+"3281","Cordoba","205",null
+"3282","Cuenca","205",null
+"3283","Gipuzkoa","205",null
+"3284","Girona","205",null
+"3285","Granada","205",null
+"3286","Guadalajara","205",null
+"3287","Guipuzcoa","205",null
+"3288","Huelva","205",null
+"3289","Huesca","205",null
+"3290","Jaen","205",null
+"3291","La Rioja","205",null
+"3292","Las Palmas","205",null
+"3293","Leon","205",null
+"3294","Lerida","205",null
+"3295","Lleida","205",null
+"3296","Lugo","205",null
+"3297","Madrid","205",null
+"3298","Malaga","205",null
+"3299","Melilla","205",null
+"3300","Murcia","205",null
+"3301","Navarra","205",null
+"3302","Ourense","205",null
+"3303","Pais Vasco","205",null
+"3304","Palencia","205",null
+"3305","Pontevedra","205",null
+"3306","Salamanca","205",null
+"3307","Santa Cruz de Tenerife","205",null
+"3308","Segovia","205",null
+"3309","Sevilla","205",null
+"3310","Soria","205",null
+"3311","Tarragona","205",null
+"3312","Tenerife","205",null
+"3313","Teruel","205",null
+"3314","Toledo","205",null
+"3315","Valencia","205",null
+"3316","Valladolid","205",null
+"3317","Vizcaya","205",null
+"3318","Zamora","205",null
+"3319","Zaragoza","205",null
+"3320","Amparai","206",null
+"3321","Anuradhapuraya","206",null
+"3322","Badulla","206",null
+"3323","Boralesgamuwa","206",null
+"3324","Colombo","206",null
+"3325","Galla","206",null
+"3326","Gampaha","206",null
+"3327","Hambantota","206",null
+"3328","Kalatura","206",null
+"3329","Kegalla","206",null
+"3330","Kilinochchi","206",null
+"3331","Kurunegala","206",null
+"3332","Madakalpuwa","206",null
+"3333","Maha Nuwara","206",null
+"3334","Malwana","206",null
+"3335","Mannarama","206",null
+"3336","Matale","206",null
+"3337","Matara","206",null
+"3338","Monaragala","206",null
+"3339","Mullaitivu","206",null
+"3340","North Eastern Province","206",null
+"3341","North Western Province","206",null
+"3342","Nuwara Eliya","206",null
+"3343","Polonnaruwa","206",null
+"3344","Puttalama","206",null
+"3345","Ratnapuraya","206",null
+"3346","Southern Province","206",null
+"3347","Tirikunamalaya","206",null
+"3348","Tuscany","206",null
+"3349","Vavuniyawa","206",null
+"3350","Western Province","206",null
+"3351","Yapanaya","206",null
+"3352","kadawatha","206",null
+"3353","A  ali-an-Nil","207",null
+"3354","Bahr-al-Jabal","207",null
+"3355","Central Equatoria","207",null
+"3356","Gharb Bahr-al-Ghazal","207",null
+"3357","Gharb Darfur","207",null
+"3358","Gharb Kurdufan","207",null
+"3359","Gharb-al-Istiwa  iyah","207",null
+"3360","Janub Darfur","207",null
+"3361","Janub Kurdufan","207",null
+"3362","Junqali","207",null
+"3363","Kassala","207",null
+"3364","Nahr-an-Nil","207",null
+"3365","Shamal Bahr-al-Ghazal","207",null
+"3366","Shamal Darfur","207",null
+"3367","Shamal Kurdufan","207",null
+"3368","Sharq-al-Istiwa  iyah","207",null
+"3369","Sinnar","207",null
+"3370","Warab","207",null
+"3371","Wilayat al Khartum","207",null
+"3372","al-Bahr-al-Ahmar","207",null
+"3373","al-Buhayrat","207",null
+"3374","al-Jazirah","207",null
+"3375","al-Khartum","207",null
+"3376","al-Qadarif","207",null
+"3377","al-Wahdah","207",null
+"3378","an-Nil-al-Abyad","207",null
+"3379","an-Nil-al-Azraq","207",null
+"3380","ash-Shamaliyah","207",null
+"3381","Brokopondo","208",null
+"3382","Commewijne","208",null
+"3383","Coronie","208",null
+"3384","Marowijne","208",null
+"3385","Nickerie","208",null
+"3386","Para","208",null
+"3387","Paramaribo","208",null
+"3388","Saramacca","208",null
+"3389","Wanica","208",null
+"3390","Svalbard","209",null
+"3391","Hhohho","210",null
+"3392","Lubombo","210",null
+"3393","Manzini","210",null
+"3394","Shiselweni","210",null
+"3395","Alvsborgs Lan","211",null
+"3396","Angermanland","211",null
+"3397","Blekinge","211",null
+"3398","Bohuslan","211",null
+"3399","Dalarna","211",null
+"3400","Gavleborg","211",null
+"3401","Gaza","211",null
+"3402","Gotland","211",null
+"3403","Halland","211",null
+"3404","Jamtland","211",null
+"3405","Jonkoping","211",null
+"3406","Kalmar","211",null
+"3407","Kristianstads","211",null
+"3408","Kronoberg","211",null
+"3409","Norrbotten","211",null
+"3410","Orebro","211",null
+"3411","Ostergotland","211",null
+"3412","Saltsjo-Boo","211",null
+"3413","Skane","211",null
+"3414","Smaland","211",null
+"3415","Sodermanland","211",null
+"3416","Stockholm","211",null
+"3417","Uppsala","211",null
+"3418","Varmland","211",null
+"3419","Vasterbotten","211",null
+"3420","Vastergotland","211",null
+"3421","Vasternorrland","211",null
+"3422","Vastmanland","211",null
+"3423","Vastra Gotaland","211",null
+"3424","Aargau","212",null
+"3425","Appenzell Inner-Rhoden","212",null
+"3426","Appenzell-Ausser Rhoden","212",null
+"3427","Basel-Landschaft","212",null
+"3428","Basel-Stadt","212",null
+"3429","Bern","212",null
+"3430","Canton Ticino","212",null
+"3431","Fribourg","212",null
+"3432","Geneve","212",null
+"3433","Glarus","212",null
+"3434","Graubunden","212",null
+"3435","Heerbrugg","212",null
+"3436","Jura","212",null
+"3437","Kanton Aargau","212",null
+"3438","Luzern","212",null
+"3439","Morbio Inferiore","212",null
+"3440","Muhen","212",null
+"3441","Neuchatel","212",null
+"3442","Nidwalden","212",null
+"3443","Obwalden","212",null
+"3444","Sankt Gallen","212",null
+"3445","Schaffhausen","212",null
+"3446","Schwyz","212",null
+"3447","Solothurn","212",null
+"3448","Thurgau","212",null
+"3449","Ticino","212",null
+"3450","Uri","212",null
+"3451","Valais","212",null
+"3452","Vaud","212",null
+"3453","Vauffelin","212",null
+"3454","Zug","212",null
+"3455","Zurich","212",null
+"3456","Aleppo","213",null
+"3457","Dar  a","213",null
+"3458","Dayr-az-Zawr","213",null
+"3459","Dimashq","213",null
+"3460","Halab","213",null
+"3461","Hamah","213",null
+"3462","Hims","213",null
+"3463","Idlib","213",null
+"3464","Madinat Dimashq","213",null
+"3465","Tartus","213",null
+"3466","al-Hasakah","213",null
+"3467","al-Ladhiqiyah","213",null
+"3468","al-Qunaytirah","213",null
+"3469","ar-Raqqah","213",null
+"3470","as-Suwayda","213",null
+"3471","Changhua County","214",null
+"3472","Chiayi County","214",null
+"3473","Chiayi City","214",null
+"3474","Taipei City","214",null
+"3475","Hsinchu County","214",null
+"3476","Hsinchu City","214",null
+"3477","Hualien County","214",null
+"3480","Kaohsiung City","214",null
+"3481","Keelung City","214",null
+"3482","Kinmen County","214",null
+"3483","Miaoli County","214",null
+"3484","Nantou County","214",null
+"3486","Penghu County","214",null
+"3487","Pingtung County","214",null
+"3488","Taichung City","214",null
+"3492","Tainan City","214",null
+"3493","New Taipei City","214",null
+"3495","Taitung County","214",null
+"3496","Taoyuan City","214",null
+"3497","Yilan County","214",null
+"3498","YunLin County","214",null
+"4121","Lienchiang County","214",null
+"3500","Dushanbe","215",null
+"3501","Gorno-Badakhshan","215",null
+"3502","Karotegin","215",null
+"3503","Khatlon","215",null
+"3504","Sughd","215",null
+"3505","Arusha","216",null
+"3506","Dar es Salaam","216",null
+"3507","Dodoma","216",null
+"3508","Iringa","216",null
+"3509","Kagera","216",null
+"3510","Kigoma","216",null
+"3511","Kilimanjaro","216",null
+"3512","Lindi","216",null
+"3513","Mara","216",null
+"3514","Mbeya","216",null
+"3515","Morogoro","216",null
+"3516","Mtwara","216",null
+"3517","Mwanza","216",null
+"3518","Pwani","216",null
+"3519","Rukwa","216",null
+"3520","Ruvuma","216",null
+"3521","Shinyanga","216",null
+"3522","Singida","216",null
+"3523","Tabora","216",null
+"3524","Tanga","216",null
+"3525","Zanzibar and Pemba","216",null
+"3526","Amnat Charoen","217",null
+"3527","Ang Thong","217",null
+"3528","Bangkok","217",null
+"3529","Buri Ram","217",null
+"3530","Chachoengsao","217",null
+"3531","Chai Nat","217",null
+"3532","Chaiyaphum","217",null
+"3533","Changwat Chaiyaphum","217",null
+"3534","Chanthaburi","217",null
+"3535","Chiang Mai","217",null
+"3536","Chiang Rai","217",null
+"3537","Chon Buri","217",null
+"3538","Chumphon","217",null
+"3539","Kalasin","217",null
+"3540","Kamphaeng Phet","217",null
+"3541","Kanchanaburi","217",null
+"3542","Khon Kaen","217",null
+"3543","Krabi","217",null
+"3544","Krung Thep","217",null
+"3545","Lampang","217",null
+"3546","Lamphun","217",null
+"3547","Loei","217",null
+"3548","Lop Buri","217",null
+"3549","Mae Hong Son","217",null
+"3550","Maha Sarakham","217",null
+"3551","Mukdahan","217",null
+"3552","Nakhon Nayok","217",null
+"3553","Nakhon Pathom","217",null
+"3554","Nakhon Phanom","217",null
+"3555","Nakhon Ratchasima","217",null
+"3556","Nakhon Sawan","217",null
+"3557","Nakhon Si Thammarat","217",null
+"3558","Nan","217",null
+"3559","Narathiwat","217",null
+"3560","Nong Bua Lam Phu","217",null
+"3561","Nong Khai","217",null
+"3562","Nonthaburi","217",null
+"3563","Pathum Thani","217",null
+"3564","Pattani","217",null
+"3565","Phangnga","217",null
+"3566","Phatthalung","217",null
+"3567","Phayao","217",null
+"3568","Phetchabun","217",null
+"3569","Phetchaburi","217",null
+"3570","Phichit","217",null
+"3571","Phitsanulok","217",null
+"3572","Phra Nakhon Si Ayutthaya","217",null
+"3573","Phrae","217",null
+"3574","Phuket","217",null
+"3575","Prachin Buri","217",null
+"3576","Prachuap Khiri Khan","217",null
+"3577","Ranong","217",null
+"3578","Ratchaburi","217",null
+"3579","Rayong","217",null
+"3580","Roi Et","217",null
+"3581","Sa Kaeo","217",null
+"3582","Sakon Nakhon","217",null
+"3583","Samut Prakan","217",null
+"3584","Samut Sakhon","217",null
+"3585","Samut Songkhran","217",null
+"3586","Saraburi","217",null
+"3587","Satun","217",null
+"3588","Si Sa Ket","217",null
+"3589","Sing Buri","217",null
+"3590","Songkhla","217",null
+"3591","Sukhothai","217",null
+"3592","Suphan Buri","217",null
+"3593","Surat Thani","217",null
+"3594","Surin","217",null
+"3595","Tak","217",null
+"3596","Trang","217",null
+"3597","Trat","217",null
+"3598","Ubon Ratchathani","217",null
+"3599","Udon Thani","217",null
+"3600","Uthai Thani","217",null
+"3601","Uttaradit","217",null
+"3602","Yala","217",null
+"3603","Yasothon","217",null
+"3604","Centre","218",null
+"3605","Kara","218",null
+"3606","Maritime","218",null
+"3607","Plateaux","218",null
+"3608","Savanes","218",null
+"3609","Atafu","219",null
+"3610","Fakaofo","219",null
+"3611","Nukunonu","219",null
+"3612","Eua","220",null
+"3613","Ha  apai","220",null
+"3614","Niuas","220",null
+"3615","Tongatapu","220",null
+"3616","Vava  u","220",null
+"3617","Arima-Tunapuna-Piarco","221",null
+"3618","Caroni","221",null
+"3619","Chaguanas","221",null
+"3620","Couva-Tabaquite-Talparo","221",null
+"3621","Diego Martin","221",null
+"3622","Glencoe","221",null
+"3623","Penal Debe","221",null
+"3624","Point Fortin","221",null
+"3625","Port of Spain","221",null
+"3626","Princes Town","221",null
+"3627","Saint George","221",null
+"3628","San Fernando","221",null
+"3629","San Juan","221",null
+"3630","Sangre Grande","221",null
+"3631","Siparia","221",null
+"3632","Tobago","221",null
+"3633","Aryanah","222",null
+"3634","Bajah","222",null
+"3635","Bin   Arus","222",null
+"3636","Binzart","222",null
+"3637","Gouvernorat de Ariana","222",null
+"3638","Gouvernorat de Nabeul","222",null
+"3639","Gouvernorat de Sousse","222",null
+"3640","Hammamet Yasmine","222",null
+"3641","Jundubah","222",null
+"3642","Madaniyin","222",null
+"3643","Manubah","222",null
+"3644","Monastir","222",null
+"3645","Nabul","222",null
+"3646","Qabis","222",null
+"3647","Qafsah","222",null
+"3648","Qibili","222",null
+"3649","Safaqis","222",null
+"3650","Sfax","222",null
+"3651","Sidi Bu Zayd","222",null
+"3652","Silyanah","222",null
+"3653","Susah","222",null
+"3654","Tatawin","222",null
+"3655","Tawzar","222",null
+"3656","Tunis","222",null
+"3657","Zaghwan","222",null
+"3658","al-Kaf","222",null
+"3659","al-Mahdiyah","222",null
+"3660","al-Munastir","222",null
+"3661","al-Qasrayn","222",null
+"3662","al-Qayrawan","222",null
+"3663","Adana","223",null
+"3664","Adiyaman","223",null
+"3665","Afyon","223",null
+"3666","Agri","223",null
+"3667","Aksaray","223",null
+"3668","Amasya","223",null
+"3669","Ankara","223",null
+"3670","Antalya","223",null
+"3671","Ardahan","223",null
+"3672","Artvin","223",null
+"3673","Aydin","223",null
+"3674","Balikesir","223",null
+"3675","Bartin","223",null
+"3676","Batman","223",null
+"3677","Bayburt","223",null
+"3678","Bilecik","223",null
+"3679","Bingol","223",null
+"3680","Bitlis","223",null
+"3681","Bolu","223",null
+"3682","Burdur","223",null
+"3683","Bursa","223",null
+"3684","Canakkale","223",null
+"3685","Cankiri","223",null
+"3686","Corum","223",null
+"3687","Denizli","223",null
+"3688","Diyarbakir","223",null
+"3689","Duzce","223",null
+"3690","Edirne","223",null
+"3691","Elazig","223",null
+"3692","Erzincan","223",null
+"3693","Erzurum","223",null
+"3694","Eskisehir","223",null
+"3695","Gaziantep","223",null
+"3696","Giresun","223",null
+"3697","Gumushane","223",null
+"3698","Hakkari","223",null
+"3699","Hatay","223",null
+"3700","Icel","223",null
+"3701","Igdir","223",null
+"3702","Isparta","223",null
+"3703","Istanbul","223",null
+"3704","Izmir","223",null
+"3705","Kahramanmaras","223",null
+"3706","Karabuk","223",null
+"3707","Karaman","223",null
+"3708","Kars","223",null
+"3709","Karsiyaka","223",null
+"3710","Kastamonu","223",null
+"3711","Kayseri","223",null
+"3712","Kilis","223",null
+"3713","Kirikkale","223",null
+"3714","Kirklareli","223",null
+"3715","Kirsehir","223",null
+"3716","Kocaeli","223",null
+"3717","Konya","223",null
+"3718","Kutahya","223",null
+"3719","Lefkosa","223",null
+"3720","Malatya","223",null
+"3721","Manisa","223",null
+"3722","Mardin","223",null
+"3723","Mugla","223",null
+"3724","Mus","223",null
+"3725","Nevsehir","223",null
+"3726","Nigde","223",null
+"3727","Ordu","223",null
+"3728","Osmaniye","223",null
+"3729","Rize","223",null
+"3730","Sakarya","223",null
+"3731","Samsun","223",null
+"3732","Sanliurfa","223",null
+"3733","Siirt","223",null
+"3734","Sinop","223",null
+"3735","Sirnak","223",null
+"3736","Sivas","223",null
+"3737","Tekirdag","223",null
+"3738","Tokat","223",null
+"3739","Trabzon","223",null
+"3740","Tunceli","223",null
+"3741","Usak","223",null
+"3742","Van","223",null
+"3743","Yalova","223",null
+"3744","Yozgat","223",null
+"3745","Zonguldak","223",null
+"3746","Ahal","224",null
+"3747","Asgabat","224",null
+"3748","Balkan","224",null
+"3749","Dasoguz","224",null
+"3750","Lebap","224",null
+"3751","Mari","224",null
+"3752","Grand Turk","225",null
+"3753","South Caicos and East Caicos","225",null
+"3754","Funafuti","226",null
+"3755","Nanumanga","226",null
+"3756","Nanumea","226",null
+"3757","Niutao","226",null
+"3758","Nui","226",null
+"3759","Nukufetau","226",null
+"3760","Nukulaelae","226",null
+"3761","Vaitupu","226",null
+"3762","Central","227",null
+"3763","Eastern","227",null
+"3764","Northern","227",null
+"3765","Western","227",null
+"3766","Cherkas  ka","228",null
+"3767","Chernihivs  ka","228",null
+"3768","Chernivets  ka","228",null
+"3769","Crimea","228",null
+"3770","Dnipropetrovska","228",null
+"3771","Donets  ka","228",null
+"3772","Ivano-Frankivs  ka","228",null
+"3773","Kharkiv","228",null
+"3774","Kharkov","228",null
+"3775","Khersonska","228",null
+"3776","Khmel  nyts  ka","228",null
+"3777","Kirovohrad","228",null
+"3778","Krym","228",null
+"3779","Kyyiv","228",null
+"3780","Kyyivs  ka","228",null
+"3781","L  vivs  ka","228",null
+"3782","Luhans  ka","228",null
+"3783","Mykolayivs  ka","228",null
+"3784","Odes  ka","228",null
+"3785","Odessa","228",null
+"3786","Poltavs  ka","228",null
+"3787","Rivnens  ka","228",null
+"3788","Sevastopol","228",null
+"3789","Sums  ka","228",null
+"3790","Ternopil  s  ka","228",null
+"3791","Volyns  ka","228",null
+"3792","Vynnyts  ka","228",null
+"3793","Zakarpats  ka","228",null
+"3794","Zaporizhia","228",null
+"3795","Zhytomyrs  ka","228",null
+"3796","Abu Zabi","229",null
+"3797","Ajman","229",null
+"3798","Dubai","229",null
+"3799","Ras al-Khaymah","229",null
+"3800","Sharjah","229",null
+"3801","Sharjha","229",null
+"3802","Umm al Qaywayn","229",null
+"3803","al-Fujayrah","229",null
+"3804","ash-Shariqah","229",null
+"3805","Aberdeen","230",null
+"3806","Aberdeenshire","230",null
+"3807","Argyll","230",null
+"3808","Armagh","230",null
+"3809","Bedfordshire","230",null
+"3810","Belfast","230",null
+"3811","Berkshire","230",null
+"3812","Birmingham","230",null
+"3813","Brechin","230",null
+"3814","Bridgnorth","230",null
+"3815","Bristol","230",null
+"3816","Buckinghamshire","230",null
+"3817","Cambridge","230",null
+"3818","Cambridgeshire","230",null
+"3819","Channel Islands","230",null
+"3820","Cheshire","230",null
+"3821","Cleveland","230",null
+"3822","Co Fermanagh","230",null
+"3823","Conwy","230",null
+"3824","Cornwall","230",null
+"3825","Coventry","230",null
+"3826","Craven Arms","230",null
+"3827","Cumbria","230",null
+"3828","Denbighshire","230",null
+"3829","Derby","230",null
+"3830","Derbyshire","230",null
+"3831","Devon","230",null
+"3832","Dial Code Dungannon","230",null
+"3833","Didcot","230",null
+"3834","Dorset","230",null
+"3835","Dunbartonshire","230",null
+"3836","Durham","230",null
+"3837","East Dunbartonshire","230",null
+"3838","East Lothian","230",null
+"3839","East Midlands","230",null
+"3840","East Sussex","230",null
+"3841","East Yorkshire","230",null
+"3842","England","230",null
+"3843","Essex","230",null
+"3844","Fermanagh","230",null
+"3845","Fife","230",null
+"3846","Flintshire","230",null
+"3847","Fulham","230",null
+"3848","Gainsborough","230",null
+"3849","Glocestershire","230",null
+"3850","Gwent","230",null
+"3851","Hampshire","230",null
+"3852","Hants","230",null
+"3853","Herefordshire","230",null
+"3854","Hertfordshire","230",null
+"3855","Ireland","230",null
+"3856","Isle Of Man","230",null
+"3857","Isle of Wight","230",null
+"3858","Kenford","230",null
+"3859","Kent","230",null
+"3860","Kilmarnock","230",null
+"3861","Lanarkshire","230",null
+"3862","Lancashire","230",null
+"3863","Leicestershire","230",null
+"3864","Lincolnshire","230",null
+"3865","Llanymynech","230",null
+"3866","London","230",null
+"3867","Ludlow","230",null
+"3868","Manchester","230",null
+"3869","Mayfair","230",null
+"3870","Merseyside","230",null
+"3871","Mid Glamorgan","230",null
+"3872","Middlesex","230",null
+"3873","Mildenhall","230",null
+"3874","Monmouthshire","230",null
+"3875","Newton Stewart","230",null
+"3876","Norfolk","230",null
+"3877","North Humberside","230",null
+"3878","North Yorkshire","230",null
+"3879","Northamptonshire","230",null
+"3880","Northants","230",null
+"3881","Northern Ireland","230",null
+"3882","Northumberland","230",null
+"3883","Nottinghamshire","230",null
+"3884","Oxford","230",null
+"3885","Powys","230",null
+"3886","Roos-shire","230",null
+"3887","SUSSEX","230",null
+"3888","Sark","230",null
+"3889","Scotland","230",null
+"3890","Scottish Borders","230",null
+"3891","Shropshire","230",null
+"3892","Somerset","230",null
+"3893","South Glamorgan","230",null
+"3894","South Wales","230",null
+"3895","South Yorkshire","230",null
+"3896","Southwell","230",null
+"3897","Staffordshire","230",null
+"3898","Strabane","230",null
+"3899","Suffolk","230",null
+"3900","Surrey","230",null
+"3901","Sussex","230",null
+"3902","Twickenham","230",null
+"3903","Tyne and Wear","230",null
+"3904","Tyrone","230",null
+"3905","Utah","230",null
+"3906","Wales","230",null
+"3907","Warwickshire","230",null
+"3908","West Lothian","230",null
+"3909","West Midlands","230",null
+"3910","West Sussex","230",null
+"3911","West Yorkshire","230",null
+"3912","Whissendine","230",null
+"3913","Wiltshire","230",null
+"3914","Wokingham","230",null
+"3915","Worcestershire","230",null
+"3916","Wrexham","230",null
+"3917","Wurttemberg","230",null
+"3918","Yorkshire","230",null
+"3919","Alabama","231",null
+"3920","Alaska","231",null
+"3921","Arizona","231",null
+"3922","Arkansas","231",null
+"3923","Byram","231",null
+"3924","California","231",null
+"3925","Cokato","231",null
+"3926","Colorado","231",null
+"3927","Connecticut","231",null
+"3928","Delaware","231",null
+"3929","District of Columbia","231",null
+"3930","Florida","231",null
+"3931","Georgia","231",null
+"3932","Hawaii","231",null
+"3933","Idaho","231",null
+"3934","Illinois","231",null
+"3935","Indiana","231",null
+"3936","Iowa","231",null
+"3937","Kansas","231",null
+"3938","Kentucky","231",null
+"3939","Louisiana","231",null
+"3940","Lowa","231",null
+"3941","Maine","231",null
+"3942","Maryland","231",null
+"3943","Massachusetts","231",null
+"3944","Medfield","231",null
+"3945","Michigan","231",null
+"3946","Minnesota","231",null
+"3947","Mississippi","231",null
+"3948","Missouri","231",null
+"3949","Montana","231",null
+"3950","Nebraska","231",null
+"3951","Nevada","231",null
+"3952","New Hampshire","231",null
+"3953","New Jersey","231",null
+"3954","New Jersy","231",null
+"3955","New Mexico","231",null
+"3956","New York","231",null
+"3957","North Carolina","231",null
+"3958","North Dakota","231",null
+"3959","Ohio","231",null
+"3960","Oklahoma","231",null
+"3961","Ontario","231",null
+"3962","Oregon","231",null
+"3963","Pennsylvania","231",null
+"3964","Ramey","231",null
+"3965","Rhode Island","231",null
+"3966","South Carolina","231",null
+"3967","South Dakota","231",null
+"3968","Sublimity","231",null
+"3969","Tennessee","231",null
+"3970","Texas","231",null
+"3971","Trimble","231",null
+"3972","Utah","231",null
+"3973","Vermont","231",null
+"3974","Virginia","231",null
+"3975","Washington","231",null
+"3976","West Virginia","231",null
+"3977","Wisconsin","231",null
+"3978","Wyoming","231",null
+"3979","United States Minor Outlying I","232",null
+"3980","Artigas","233",null
+"3981","Canelones","233",null
+"3982","Cerro Largo","233",null
+"3983","Colonia","233",null
+"3984","Durazno","233",null
+"3985","FLorida","233",null
+"3986","Flores","233",null
+"3987","Lavalleja","233",null
+"3988","Maldonado","233",null
+"3989","Montevideo","233",null
+"3990","Paysandu","233",null
+"3991","Rio Negro","233",null
+"3992","Rivera","233",null
+"3993","Rocha","233",null
+"3994","Salto","233",null
+"3995","San Jose","233",null
+"3996","Soriano","233",null
+"3997","Tacuarembo","233",null
+"3998","Treinta y Tres","233",null
+"3999","Andijon","234",null
+"4000","Buhoro","234",null
+"4001","Buxoro Viloyati","234",null
+"4002","Cizah","234",null
+"4003","Fargona","234",null
+"4004","Horazm","234",null
+"4005","Kaskadar","234",null
+"4006","Korakalpogiston","234",null
+"4007","Namangan","234",null
+"4008","Navoi","234",null
+"4009","Samarkand","234",null
+"4010","Sirdare","234",null
+"4011","Surhondar","234",null
+"4012","Toskent","234",null
+"4013","Malampa","235",null
+"4014","Penama","235",null
+"4015","Sanma","235",null
+"4016","Shefa","235",null
+"4017","Tafea","235",null
+"4018","Torba","235",null
+"4019","Vatican City State (Holy See)","236",null
+"4020","Amazonas","237",null
+"4021","Anzoategui","237",null
+"4022","Apure","237",null
+"4023","Aragua","237",null
+"4024","Barinas","237",null
+"4025","Bolivar","237",null
+"4026","Carabobo","237",null
+"4027","Cojedes","237",null
+"4028","Delta Amacuro","237",null
+"4029","Distrito Federal/Capital District","237",null
+"4030","Falcon","237",null
+"4031","Guarico","237",null
+"4032","Lara","237",null
+"4033","Merida","237",null
+"4034","Miranda","237",null
+"4035","Monagas","237",null
+"4036","Nueva Esparta","237",null
+"4037","Portuguesa","237",null
+"4038","Sucre","237",null
+"4039","Tachira","237",null
+"4040","Trujillo","237",null
+"4041","Vargas","237",null
+"4042","Yaracuy","237",null
+"4043","Zulia","237",null
+"4044","Bac Giang","238",null
+"4045","Binh Dinh","238",null
+"4046","Binh Duong","238",null
+"4047","Da Nang","238",null
+"4048","Dong Bang Song Cuu Long","238",null
+"4049","Dong Bang Song Hong","238",null
+"4050","Dong Nai","238",null
+"4051","Dong Nam Bo","238",null
+"4052","Duyen Hai Mien Trung","238",null
+"4053","Hanoi","238",null
+"4054","Hung Yen","238",null
+"4055","Khu Bon Cu","238",null
+"4056","Long An","238",null
+"4057","Mien Nui Va Trung Du","238",null
+"4058","Thai Nguyen","238",null
+"4059","Thanh Pho Ho Chi Minh","238",null
+"4060","Thu Do Ha Noi","238",null
+"4061","Tinh Can Tho","238",null
+"4062","Tinh Da Nang","238",null
+"4063","Tinh Gia Lai","238",null
+"4064","Anegada","239",null
+"4065","Jost van Dyke","239",null
+"4066","Tortola","239",null
+"4067","Saint Croix","240",null
+"4068","Saint John","240",null
+"4069","Saint Thomas","240",null
+"4070","Alo","241",null
+"4071","Singave","241",null
+"4072","Wallis","241",null
+"4073","Bu Jaydur","242",null
+"4074","Wad-adh-Dhahab","242",null
+"4075","al-  Ayun","242",null
+"4076","as-Samarah","242",null
+"4077","Adan","243",null
+"4078","Abyan","243",null
+"4079","Dhamar","243",null
+"4080","Hadramaut","243",null
+"4081","Hajjah","243",null
+"4082","Hudaydah","243",null
+"4083","Ibb","243",null
+"4084","Lahij","243",null
+"4085","Ma  rib","243",null
+"4086","Madinat San  a","243",null
+"4087","Sa  dah","243",null
+"4088","Sana","243",null
+"4089","Shabwah","243",null
+"4090","Ta  izz","243",null
+"4091","al-Bayda","243",null
+"4092","al-Hudaydah","243",null
+"4093","al-Jawf","243",null
+"4094","al-Mahrah","243",null
+"4095","al-Mahwit","243",null
+"4096","Central Serbia","244",null
+"4097","Kosovo and Metohija","244",null
+"4098","Montenegro","244",null
+"4099","Republic of Serbia","244",null
+"4100","Serbia","244",null
+"4101","Vojvodina","244",null
+"4102","Central","245",null
+"4103","Copperbelt","245",null
+"4104","Eastern","245",null
+"4105","Luapala","245",null
+"4106","Lusaka","245",null
+"4107","North-Western","245",null
+"4108","Northern","245",null
+"4109","Southern","245",null
+"4110","Western","245",null
+"4111","Bulawayo","246",null
+"4112","Harare","246",null
+"4113","Manicaland","246",null
+"4114","Mashonaland Central","246",null
+"4115","Mashonaland East","246",null
+"4116","Mashonaland West","246",null
+"4117","Masvingo","246",null
+"4118","Matabeleland North","246",null
+"4119","Matabeleland South","246",null
+"4120","Midlands","246",null
+"4121","Federal Dependencies","237",null
